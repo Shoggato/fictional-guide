@@ -22,11 +22,11 @@
         <lie>Combine the data from multiple tables by using JOIN clauses.</lie>
     </ul>
     <p>Table of Contents:</p>
-    <a href="Part1 -Introduction to Relational Databases">Go to Part1</a><br>
-    <a href="Part2 -Create SQL Database">Go to Part2</a><br>
-    <a href="Part3 -CRUD">Go to Part3</a><br>
-    <a href="Part4 -Basic Concepts and Syntax Commands">Go to Part4</a><br>
-    <a href="Part5 -Intermediate Concepts and Syntax Commands">Go to Part5</a><br>
+    <a href="Part1 -Introduction to Relational Databases">Intro to Relational Databases Part1</a><br>
+    <a href="Part2 -Create SQL Database">Create SQL Database Part2</a><br>
+    <a href="Part3 -CRUD">oh CRUD Part3</a><br>
+    <a href="Part4 -Basic Concepts and Syntax Commands">Basic Concepts and Syntax Commands Part4</a><br>
+    <a href="Part5 -Intermediate Concepts and Syntax Commands">Intermediate Concepts and Syntax Commads Part5</a><br>
 
 </body>
 </html>

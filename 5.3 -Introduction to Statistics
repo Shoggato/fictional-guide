@@ -23,18 +23,18 @@
         <li>Calculate and plot a linear regression with Python.</li>
     </ul>
     <p>Table of Contents:</p>
-    <a href="Part1 -Statistical Concepts">Go to Part1</a><br>
-    <a href="Part2 -Calculating Mean, Median, and Mode">Go to Part2</a><br>
-    <a href="Part3 -Intro to Numpy">Go to Part3</a><br>
-    <a href="Part4 -Intro to Scipy">Go to Part4</a><br>
-    <a href="Part5 -Normal Distribution">Go to Part5</a><br>
-    <a href="Part6 -SciPy Stats Module">Go to Part6</a><br>
-    <a href="Part7 -Quantiles and Outliers">Go to Part7</a><br>
-    <a href="Part8 -Sample, Population and SEM">Go to Part8</a><br>
-    <a href="Part9 -Correlation">Go to Part9</a><br>
-    <a href="Part10 -Linear Regression">Go to Part10</a><br>
-    <a href="Part11 -Chi-Square Tests">Go to Part11</a><br>
-    <a href="Part12 -Degrees of Freedom and Critical Values">Go to part12</a><br>
-    <a href="part13 -Intro to Hypothesis Testing">Go to part13</a><br>
+    <a href="Part1 -Statistical Concepts">Statistical Concepts Part1</a><br>
+    <a href="Part2 -Calculating Mean, Median, and Mode">Calculating Mean, Median, and Mode Part2</a><br>
+    <a href="Part3 -Intro to Numpy">Intro to Numpy Part3</a><br>
+    <a href="Part4 -Intro to Scipy">Intro to Scipy Part4</a><br>
+    <a href="Part5 -Normal Distribution">Normal Distribution Part5</a><br>
+    <a href="Part6 -SciPy Stats Module">SciPy Stats Module Part6</a><br>
+    <a href="Part7 -Quantiles and Outliers">Quantiles and Outliers Part7</a><br>
+    <a href="Part8 -Sample, Population and SEM">Sample, Population and SEM Part8</a><br>
+    <a href="Part9 -Correlation">Correlation Part9</a><br>
+    <a href="Part10 -Linear Regression">Linear Regression Part10</a><br>
+    <a href="Part11 -Chi-Square Tests">Chi-Square Tests Part11</a><br>
+    <a href="Part12 -Degrees of Freedom and Critical Values">Degrees of Freedom and Critical Values part12</a><br>
+    <a href="part13 -Intro to Hypothesis Testing">Intro to Hypothesis Testing part13</a><br>
 </body>
 </html>

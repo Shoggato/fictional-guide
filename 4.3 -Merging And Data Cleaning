@@ -17,11 +17,11 @@
         <li>Fix common Python and Pandas bugs in Jupyter Notebook.</li>
     </ul>
     <p>Table of Contents:</p>
-    <a href="Part1 -ValueError">Go to Part1</a><br>
-    <a href="Part2 -How to use StackOverflow">Go to Part2</a><br>
-    <a href="Part3 -CSV File Path Issues">Go to Part3</a><br>
-    <a href="Part4 -AttributeError">Go to Part4</a><br>
-    <a href="Part5 -MergeError">Go to Part5</a><br>
-    <a href="Part6 -Debugging">Go to Part6</a><br>
+    <a href="Part1 -ValueError">ValueError Part1</a><br>
+    <a href="Part2 -How to use StackOverflow">How to with StackOverflow Part2</a><br>
+    <a href="Part3 -CSV File Path Issues">CSV file path issues Part3</a><br>
+    <a href="Part4 -AttributeError">AttributeError Part4</a><br>
+    <a href="Part5 -MergeError">MergeError Part5</a><br>
+    <a href="Part6 -Debugging">Debugging Part6</a><br>
 </body>
 </html>

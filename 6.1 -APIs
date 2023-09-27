@@ -21,14 +21,14 @@
         <li>Sign up for and use an API key.</li>
     </ul>
     <p>Table of Contents:</p>
-    <a href="Part1 -Introduction to APIs">Go to Part1</a><br>
-    <a href="Part2 -Introduction to JSON">Go to Part2</a><br>
-    <a href="Part3 -Requests.py">Go to Part3</a><br>
-    <a href="Part4 -SpaceX API">Go to Part4</a><br>
-    <a href="Part5 -Referencing Individual Elements from a JSON Array">Go to Part5</a><br>
-    <a href="Part6 -Star Wars API">Go to Part6</a><br>
-    <a href="Part7 -OMDb API">Go to Part7</a><br>
-    <a href="Part8 -Iterative Requests">Go to Part8</a><br>
-    <a href="Part9 -NYTIMES API">Go to Part9</a><br>
+    <a href="Part1 -Introduction to APIs">Intro to APIs Part1</a><br>
+    <a href="Part2 -Introduction to JSON">Intro to JSON Part2</a><br>
+    <a href="Part3 -Requests.py">Requests Part3</a><br>
+    <a href="Part4 -SpaceX API">SpaceX API Part4</a><br>
+    <a href="Part5 -Referencing Individual Elements from a JSON Array">Referencing Individual Elements from a JSON Array Part5</a><br>
+    <a href="Part6 -Star Wars API">Star Wars API Part6</a><br>
+    <a href="Part7 -OMDb API">OMDb API Part7</a><br>
+    <a href="Part8 -Iterative Requests">Iterative Requests Part8</a><br>
+    <a href="Part9 -NYTIMES API">NYTIMES API Part9</a><br>
 </body>
 </html>

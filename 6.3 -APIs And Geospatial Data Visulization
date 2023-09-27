@@ -19,9 +19,9 @@
         <li>Dissect new API documentation.</li>
     </ul>
     <p>Table of Contents:</p>
-    <a href="Part1 -GeoAPIfy">Go to Part1</a><br>
-    <a href="Part2 -iterrows()">Go to Part2</a><br>
-    <a href="Part3 -HvPlot/geoviews">Go to Part3</a><br>
-    <a href="Part4 -Census">Go to Part4</a><br>
+    <a href="Part1 -GeoAPIfy">GeoAPIfy Part1</a><br>
+    <a href="Part2 -iterrows()">-iterrows() Part2</a><br>
+    <a href="Part3 -HvPlot/geoviews">HvPlot/geoviews Part3</a><br>
+    <a href="Part4 -Census">Census API Part4</a><br>
 </body>
 </html>

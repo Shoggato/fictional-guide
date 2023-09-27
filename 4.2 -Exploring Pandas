@@ -20,7 +20,7 @@
         <li>Sort DataFrames.</li>
     </ul>
     <p>Table of Contents:</p>
-    <a href="Part1 -Loc/iLoc methods">Go to Part1</a><br>
-    <a href="Part2 -DataFrames">Go to Part2</a><br>
+    <a href="Part1 -Loc/iLoc methods">Loc/iLoc methods in Pandas Part1</a><br>
+    <a href="Part2 -DataFrames">DataFrames in Pandas Part2</a><br>
 </body>
 </html>
