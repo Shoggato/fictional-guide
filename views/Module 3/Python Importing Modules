@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Python Importing Modules</title>
+</head>
+<body>
+    <h1>Python Importing Modules</h1>
+    <ul>
+        <li><a href="https://docs.python.org/3/reference/import.html">Python Official Documentation (Import)</a></li>
+        <li><a href="https://docs.python.org/3/tutorial/modules.html">Python Official Documentation (Modules)</a></li>
+        <li><a href="https://realpython.com/python-import/">RealPython - Python Import Tutorial</a></li>
+        <li><a href="https://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html">Python Import Traps</a></li>
+        <li><a href="https://www.geeksforgeeks.org/import-module-python/">GeeksforGeeks - Importing Modules in Python</a></li>
+        <li><a href="https://blog.cloudboost.io/python-import-from-as-cheatsheet-tutorial-example-beginner-help-module-function-def-5f03b02a1dbe">Python Import Cheatsheet</a></li>
+        <li><a href="https://www.w3schools.com/python/gloss_python_module_import_from.asp">W3Schools - Python Import From</a></li>
+        <li><a href="https://www.w3schools.com/python/python_modules.asp">W3Schools - Python Modules</a></li>
+        <li><a href="https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3">DigitalOcean - How to Import Modules in Python 3</a></li>
+    </ul>
+</body>
+</html>
