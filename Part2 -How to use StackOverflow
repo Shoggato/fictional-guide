@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Useful Links</title>
+</head>
+<body>
+    <h1>Useful Links</h1>
+    
+    <h2>YouTube Video:</h2>
+    <p><a href="https://www.youtube.com/watch?v=Vt-Wf7d0CFo">Watch the YouTube Video</a></p>
+
+    <h2>Stack Overflow Tour:</h2>
+    <p><a href="https://stackoverflow.com/tour">Take the Stack Overflow Tour</a></p>
+</body>
+</html>

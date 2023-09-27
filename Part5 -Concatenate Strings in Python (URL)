@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>String Concatenation Resources</title>
+</head>
+<body>
+    <h1>String Concatenation Resources</h1>
+    <ul>
+        <li><a href="https://codereview.stackexchange.com/questions/175421/joining-strings-to-form-a-url">Code Review Stack Exchange: Joining Strings to Form a URL</a></li>
+        <li><a href="https://reqbin.com/code/python/qlnh9kuj/python-concatenate-strings-example">ReqBin: Python Concatenate Strings Example</a></li>
+        <li><a href="https://codereview.stackexchange.com/questions/180427/download-and-concatenate-text-files-from-multiple-api-endpoints">Code Review Stack Exchange: Download and Concatenate Text Files from Multiple API Endpoints</a></li>
+        <li><a href="https://codereview.stackexchange.com/questions/147693/concatenate-function-arguments-with-and-string-if-theyre-not-none">Code Review Stack Exchange: Concatenate Function Arguments with "and" String If They're Not None</a></li>
+        <li><a href="https://www.digitalocean.com/community/tutorials/python-string-concatenation">DigitalOcean: Python String Concatenation</a></li>
+        <li><a href="https://realpython.com/python-string-concatenation/">Real Python: Python String Concatenation</a></li>
+    </ul>
+</body>
+</html>
+
+
+
+
+

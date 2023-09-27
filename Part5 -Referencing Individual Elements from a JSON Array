@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON API Documentation and References</title>
+</head>
+<body>
+    <h1>JSON API Documentation and References</h1>
+    <ul>
+        <li><a href="https://idratherbewriting.com/learnapidoc/docapis_access_json_values.html">Learn API Documentation - Accessing JSON Values</a></li>
+        <li><a href="https://stackoverflow.com/questions/66067015/how-to-reference-a-json-array-using-an-api">Stack Overflow: How to Reference a JSON Array Using an API</a></li>
+        <li><a href="https://stackoverflow.com/questions/2074908/refer-to-an-element-of-json-javascript-object">Stack Overflow: Refer to an Element of JSON (JavaScript Object)</a></li>
+        <li><a href="https://stackoverflow.com/questions/16129652/accessing-json-elements">Stack Overflow: Accessing JSON Elements</a></li>
+        <li><a href="https://json-spec.readthedocs.io/reference.html">JSON Spec Reference</a></li>
+    </ul>
+    <h2>Python Reference</h2>
+    <p>Additionally, here's a reference to the Python len() function:</p>
+    <ul>
+        <li><a href="https://www.w3schools.com/python/ref_func_len.asp">W3Schools: Python len() Function</a></li>
+    </ul>
+</body>
+</html>

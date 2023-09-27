@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TVMaze API Resources</title>
+</head>
+<body>
+    <h1>TVMaze API Resources</h1>
+    <ul>
+        <li><a href="https://www.tvmaze.com/api#show-search">TVMaze API Documentation - Show Search</a></li>
+        <li><a href="https://rapidapi.com/tvjan/api/tvmaze">RapidAPI - TVMaze API</a></li>
+        <li><a href="https://github.com/yakupadakli/python-tvmaze">GitHub Repository: python-tvmaze</a></li>
+        <li><a href="https://www.tvmaze.com/threads/339/i-created-a-basic-python-interface-for-the-api">TVMaze Forum: Basic Python Interface for the API</a></li>
+        <li><a href="https://www.tvmaze.com/threads/515/possible-embed-types">TVMaze Forum: Possible Embed Types</a></li>
+        <li><a href="https://www.tvmaze.com/threads/4/api-changelog">TVMaze Forum: API Changelog</a></li>
+        <li><a href="https://code.mythtv.org/doxygen/tvmaze_8py_source.html">MythTV Code: TVMaze Python API</a></li>
+        <li><a href="https://codesandbox.io/examples/package/tvmaze-api">CodeSandbox Examples: TVMaze API</a></li>
+        <li><a href="https://medium.com/web-mining-is688-spring-2021/exploratory-analysis-of-popular-tv-shows-using-tvmaze-662e756590bb">Medium: Exploratory Analysis of Popular TV Shows Using TVMaze</a></li>
+        <li><a href="https://www.geeksforgeeks.org/how-to-extract-tv-show-details-via-rest-api-and-spring-mvc/">GeeksforGeeks: Extract TV Show Details via REST API and Spring MVC</a></li>
+    </ul>
+</body>
+</html>

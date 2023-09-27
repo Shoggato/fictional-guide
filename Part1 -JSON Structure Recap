@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Additional Resources</title>
+</head>
+<body>
+    <h1>Additional Resources</h1>
+    <ul>
+        <li><a href="https://sdks.support.brightcove.com/android/playback/video-and-playlist-objects-json.html">Brightcove Android SDK Documentation: Video and Playlist Objects (JSON)</a></li>
+        <li><a href="https://linuxhint.com/python-list-minus-one-index/">LinuxHint: Python List Minus One Index</a></li>
+    </ul>
+</body>
+</html>

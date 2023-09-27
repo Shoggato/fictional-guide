@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>12.1 -Introduction to NoSQL and MongoDB</title>
+</head>
+<body>
+    <h1></h1>
+    <p><strong>12.1 -Introduction to NoSQL and MongoDB</strong></p><br>
+    <p>In this lesson, you’ll learn about NoSQL databases with a focus on MongoDB. 
+        MongoDB is a document database that has more flexibility than a structured database, like a SQL database, for storing data. 
+        It can handle both smaller, personal projects and larger-scale projects that a company might require. 
+        For this module, MongoDB is a better choice than SQL because you'll use data that is stored in JSON files, which is very similar to the Mongo BSON format.</p><br>
+    <p>The lesson will begin with an overview of NoSQL databases and how they differ from SQL databases. 
+        Then, your instructor will lead you through an activity about working with basic MongoDB queries using the Mongo shell. 
+        Once you feel comfortable creating elements in a Mongo database, you’ll learn how to update and delete data. Finally, you’ll learn how to import CSV and JSON files into a Mongo database from your Terminal.</p><br>
+    <p><strong>What You'll Learn</strong></p><br>
+    <p>By the end of this lesson, you will be able to:</p><br>
+    <ul>
+        <li>Identify the key differences between SQL and NoSQL databases to aid decisions around what kind of database to use in different situations.</li>
+        <li>Create and connect to local Mongo databases.</li>
+        <li>Perform create, read, update, delete (CRUD) operations on Mongo documents by using the Mongo shell.</li>
+        <li>Import data from CSV and JSON files into a local MongoDB database.</li>
+    </ul>
+    <p>Table of Contents:</p>
+    <a href="Part1">Go to Part1</a><br>
+    <a href="Part2">Go to Part2</a><br>
+    <a href="Part3">Go to Part3</a><br>
+    <a href="Part4">Go to Part4</a><br>
+    <a href="Part5">Go to Part5</a><br>
+</body>
+</html>

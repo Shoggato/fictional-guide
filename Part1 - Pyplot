@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matplotlib Pyplot Tutorial and Plot Types</title>
+</head>
+<body>
+    <h1>Matplotlib Pyplot Tutorial and Plot Types</h1>
+    
+    <h2>Matplotlib Pyplot Tutorial:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/tutorials/introductory/pyplot.html">Matplotlib Pyplot Tutorial</a></li>
+    </ul>
+    
+    <h2>Matplotlib Plot Types:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/plot_types/index.html">Matplotlib Plot Types</a></li>
+    </ul>
+</body>
+</html>

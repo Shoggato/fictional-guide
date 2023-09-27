@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3.1 -Introduction to Python</title>
+</head>
+<body>
+    <h1>Introduction to Python</h1>
+    <p><strong>Overview</strong></p><br>
+    <p>This lesson will combine what we learned last week about SQL with our favorite programming language: Python. Before getting started, you’ll need to install SQLite. 
+        SQLite is a SQL dialect that shares much of its syntax with PostgreSQL, but it’s entirely serverless.
+        The lesson will first introduce you to SQLAlchemy, a Python library that’s designed to work with SQL databases. 
+        You’ll then complete an activity in which you’ll analyze weather data by using SQLAlchemy. 
+        After another activity in which you’ll create new DataFrames based on United States census data, your instructor will lead you through a crash course in object-oriented programming (OOP).</p><br>
+    <p><strong>What You'll Learn</strong></p><br>
+    <p>By the end of this lesson, you will be able to:</p><br>
+    <ul>
+        <li>Connect to a SQL database by using SQLAlchemy.</li>
+        <li>Perform basic SQL queries by using engine.execute().</li>
+        <li>Create Python classes and objects.</li>
+        <li>Perform create, read, update, delete (CRUD) operations on data in a SQL database by using the SQLAlchemy object-relational mapper (ORM).</li>
+    </ul>
+    <p>Table of Contents:</p>
+    <a href="Part1">Go to Part1</a><br>
+    <a href="Part2">Go to Part2</a><br>
+    <a href="Part3">Go to Part3</a><br>
+    <a href="Part4">Go to Part4</a><br>
+    <a href="Part5">Go to Part5</a><br>
+</body>
+</html>

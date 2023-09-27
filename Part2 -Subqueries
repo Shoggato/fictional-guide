@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL Subqueries Resources</title>
+</head>
+<body>
+    <h1>SQL Subqueries Resources</h1>
+
+    <h2>Videos:</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=JksrTuEVEPk">YouTube: SQL Subqueries Video 1</a></li>
+        <li><a href="https://www.youtube.com/watch?v=zDqzfQGj6Ws">YouTube: SQL Subqueries Video 2</a></li>
+    </ul>
+
+    <h2>SQL Subqueries:</h2>
+    <ul>
+        <li><a href="https://sqlbolt.com/lesson/select_queries_order_of_execution">SQLBolt: Understanding SQL Subqueries</a></li>
+        <li><a href="https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php">W3resource: Understanding SQL Subqueries</a></li>
+        <li><a href="https://mode.com/sql-tutorial/sql-sub-queries/">Mode: SQL Subqueries</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/sql/relational-databases/performance/subqueries?view=sql-server-ver16">Microsoft: SQL Subqueries Performance</a></li>
+        <li><a href="https://learnsql.com/blog/sql-subquery-examples/">LearnSQL: SQL Subquery Examples</a></li>
+        <li><a href="https://www.tutorialspoint.com/sql/sql-sub-queries.htm">Tutorialspoint: SQL Subqueries</a></li>
+        <li><a href="https://www.geeksforgeeks.org/sql-subquery/">GeeksforGeeks: SQL Subquery</a></li>
+        <li><a href="https://www.programiz.com/sql/subquery">Programiz: SQL Subquery</a></li>
+        <li><a href="https://www.sqltutorial.org/sql-subquery/">SQLTutorial.org: SQL Subquery</a></li>
+        <li><a href="https://www.dbvis.com/thetable/the-complete-guide-to-sql-subqueries/">DbVisualizer: The Complete Guide to SQL Subqueries</a></li>
+        <li><a href="https://www.dataquest.io/blog/sql-subqueries-for-beginners/">Dataquest: SQL Subqueries for Beginners</a></li>
+        <li><a href="https://www.simplilearn.com/tutorials/sql-tutorial/sql-subquery">Simplilearn: SQL Subquery</a></li>
+        <li><a href="https://www.freecodecamp.org/news/sql-subquery-how-to-sub-query-in-select-statement/">freeCodeCamp: SQL Subquery - How to Sub-Query in SELECT Statement</a></li>
+        <li><a href="https://www.codecademy.com/resources/docs/sql/subqueries">Codecademy: SQL Subqueries</a></li>
+    </ul>
+
+    <h2>PostgreSQL Subqueries:</h2>
+    <ul>
+        <li><a href="https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-subquery/">PostgreSQLTutorial.com: PostgreSQL Subquery</a></li>
+        <li><a href="https://www.postgresql.org/docs/current/functions-subquery.html">PostgreSQL Documentation: Subquery Functions</a></li>
+        <li><a href="https://www.tutorialspoint.com/postgresql/postgresql_sub_queries.htm">Tutorialspoint: PostgreSQL Subqueries</a></li>
+        <li><a href="https://www.techonthenet.com/postgresql/subqueries.php">TechOnTheNet: PostgreSQL Subqueries</a></li>
+        <li><a href="https://hevodata.com/learn/postgresql-subquery/">Hevo Data: PostgreSQL Subquery</a></li>
+        <li><a href="https://www.commandprompt.com/education/postgresql-subquery-explained-with-examples/">CommandPrompt: PostgreSQL Subquery Explained with Examples</a></li>
+        <li><a href="https://cloud.google.com/spanner/docs/reference/postgresql/subqueries">Google Cloud Spanner: PostgreSQL Subqueries Reference</a></li>
+        <li><a href="https://www.cybertec-postgresql.com/en/subqueries-and-performance-in-postgresql/">Cybertec PostgreSQL: Subqueries and Performance</a></li>
+        <li><a href="https://www.javatpoint.com/postgresql-subquery">JavaTpoint: PostgreSQL Subquery</a></li>
+        <li><a href="https://www.oreilly.com/library/view/practical-postgresql/9781449309770/ch04s07.html">O'Reilly: Practical PostgreSQL</a></li>
+        <li><a href="https://www.tutorialsteacher.com/postgresql/subquery">Tutorialsteacher: PostgreSQL Subquery</a></li>
+        <li><a href="https://www.crunchydata.com/blog/joins-or-subquery-in-postgresql-lessons-learned">Crunchy Data Blog: Joins or Subquery in PostgreSQL - Lessons Learned</a></li>
+    </ul>
+</body>
+</html>

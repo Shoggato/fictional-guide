@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pandas MergeError</title>
+</head>
+<body>
+    <h1>pandas MergeError</h1>
+    
+    <h2>pandas MergeError Documentation:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.errors.MergeError.html">pandas MergeError Documentation</a></li>
+    </ul>
+    
+    <h2>Stack Overflow Discussions:</h2>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/69532422/mergeerror-can-not-pass-on-right-on-left-on-or-set-right-index-true-or-left-i">Stack Overflow - MergeError: Can not pass 'on', 'right_on', 'left_on', or set 'right_index' or 'left_index' to True</a></li>
+        <li><a href="https://stackoverflow.com/questions/66894606/mergeerror-using-pandas">Stack Overflow - MergeError Using pandas</a></li>
+    </ul>
+
+    <h2>GitHub Issue:</h2>
+    <ul>
+        <li><a href="https://github.com/pydata/xarray/issues/6483">GitHub - Issue related to MergeError in pydata/xarray</a></li>
+    </ul>
+</body>
+</html>

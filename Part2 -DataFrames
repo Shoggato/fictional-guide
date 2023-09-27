@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pandas DataFrame Operations</title>
+</head>
+<body>
+    <h1>DataFrame Merging</h1>
+    <h2>Documentation and Tutorials:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html">pandas.DataFrame.merge() Documentation</a></li>
+        <li><a href="https://www.w3schools.com/python/pandas/ref_df_merge.asp">W3Schools - pandas DataFrame merge()</a></li>
+        <li><a href="https://www.tutorialspoint.com/python_pandas/python_pandas_merging_joining.htm">TutorialsPoint - Merging and Joining DataFrames</a></li>
+        <li><a href="https://www.digitalocean.com/community/tutorials/pandas-merge-two-dataframe">DigitalOcean - Merge Two DataFrames with pandas</a></li>
+        <li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html">Python Data Science Handbook - Merge and Join</a></li>
+        <li><a href="https://www.kdnuggets.com/2023/01/merge-pandas-dataframes.html">KDnuggets - Merge Pandas DataFrames</a></li>
+    </ul>
+
+    <h2>Joins Explained:</h2>
+    <ul>
+        <li><a href="https://realpython.com/pandas-merge-join-and-concat/">Real Python - Pandas Merge, Join, and Concat</a></li>
+        <li><a href="https://www.analyticsvidhya.com/blog/2020/02/joins-in-pandas-master-the-different-types-of-joins-in-python/">Analytics Vidhya - Master the Different Types of Joins in Pandas</a></li>
+        <li><a href="https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/">Shane Lynn - Merge and Join DataFrames in Python Pandas</a></li>
+        <li><a href="https://www.geeksforgeeks.org/different-types-of-joins-in-pandas/">GeeksforGeeks - Different Types of Joins in Pandas</a></li>
+        <li><a href="https://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right">Stack Overflow - How to Join/Merge DataFrames (Inner, Outer, Left, Right)</a></li>
+        <li><a href="https://towardsdatascience.com/left-join-with-pandas-data-frames-in-python-c29c85089ba4">Towards Data Science - Left Join with Pandas DataFrames</a></li>
+        <li><a href="https://towardsdatascience.com/how-to-merge-pandas-dataframes-221e49c41bec">Towards Data Science - How to Merge Pandas DataFrames</a></li>
+    </ul>
+
+    <h1>DataFrames Cut</h1>
+    <h2>Documentation and Tutorials:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.cut.html">pandas.cut() Documentation</a></li>
+        <li><a href="https://www.geeksforgeeks.org/pandas-cut-method-in-python/">GeeksforGeeks - pandas cut() method</a></li>
+        <li><a href="https://stackoverflow.com/questions/45751390/pandas-how-to-use-pd-cut">Stack Overflow - How to Use pd.cut()</a></li>
+        <li><a href="https://note.nkmk.me/en/python-pandas-cut-qcut-binning/">nkmk.me - pandas cut() and qcut()</a></li>
+        <li><a href="https://www.w3resource.com/pandas/cut.php">w3resource - pandas cut()</a></li>
+        <li><a href="https://towardsdatascience.com/all-you-need-to-know-about-pandas-cut-and-qcut-functions-4a0c1001c38b">Towards Data Science - All You Need to Know About pandas cut() and qcut()</a></li>
+        <li><a href="https://pbpython.com/pandas-qcut-cut.html">pbpython - pandas qcut() and cut()</a></li>
+        <li><a href="https://www.educba.com/pandas-cut/">Educative - pandas cut() Function</a></li>
+        <li><a href="https://towardsdatascience.com/how-to-bin-numerical-data-with-pandas-fe5146c9dc55">Towards Data Science - How to Bin Numerical Data with Pandas</a></li>
+        <li><a href="https://stackoverflow.com/questions/45273731/binning-a-column-with-pandas">Stack Overflow - Binning a Column with Pandas</a></li>
+        <li><a href="https://www.educative.io/answers/how-to-bin-numerical-columns-into-groups-using-pandas">Educative - How to Bin Numerical Columns into Groups Using Pandas</a></li>
+        <li><a href="https://datagy.io/pandas-cut-qcut/">datagy - Pandas cut() and qcut()</a></li>
+    </ul>
+
+    <h1>DataFrames Map</h1>
+    <h2>Documentation and Tutorials:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html">pandas.Series.map() Documentation</a></li>
+        <li><a href="https://sparkbyexamples.com/pandas/pandas-map-function-explained/">SparkByExamples - Pandas map() Function Explained</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-pandas-map/">GeeksforGeeks - Python Pandas map()</a></li>
+        <li><a href="https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff">Towards Data Science - Introduction to pandas map()</a></li>
+        <li><a href="https://datagy.io/pandas-map-apply/">datagy - pandas map() and apply()</a></li>
+        <li><a href="https://practicaldatascience.co.uk/data-science/how-to-use-the-pandas-map-function">Practical Data Science - How to Use the Pandas map() Function</a></li>
+        <li><a href="https://www.pythonforbeginners.com/basics/pandas-map-function-to-series-in-python">PythonForBeginners - Pandas map() Function to Series</a></li>
+        <li><a href="https://www.projectpro.io/recipes/map-values-in-pandas-dataframe">ProjectPro - Map Values in Pandas DataFrame</a></li>
+        <li><a href="https://www.w3resource.com/pandas/series/series-map.php">w3resource - pandas Series map()</a></li>
+        <li><a href="https://www.javatpoint.com/pandas-series-map">JavaTpoint - Pandas Series map() Method</a></li>
+        <li><a href="https://www.programiz.com/python-programming/methods/built-in/map">Programiz - Python built-in map()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-map-function/">GeeksforGeeks - Python map() Function</a></li>
+    </ul>
+
+    <h1>DataFrames Format</h1>
+    <h2>Links for Formatting DataFrames:</h2>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/20937538/how-to-display-pandas-dataframe-of-floats-using-a-format-string-for-columns">Stack Overflow - How to Format Pandas DataFrame Columns</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-ways-to-format-elements-of-given-list/">GeeksforGeeks - Python Ways to Format Elements</a></li>
+        <li><a href="https://www.techbeamers.com/python-format-string-list-dict/">TechBeamers - Python Format String for Lists and Dicts</a></li>
+    </ul>
+</body>
+</html>

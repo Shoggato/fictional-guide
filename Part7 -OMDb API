@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OMDb API Resources</title>
+</head>
+<body>
+    <h1>OMDb API Resources</h1>
+    <ul>
+        <li><a href="https://www.omdbapi.com/">OMDb API Official Website</a></li>
+        <li><a href="https://readthedocs.org/projects/omdbpy/downloads/pdf/latest/">OMDbPy Documentation (PDF)</a></li>
+        <li><a href="https://pypi.org/project/omdbapi/">OMDbPy on PyPI</a></li>
+    </ul>
+</body>
+</html>

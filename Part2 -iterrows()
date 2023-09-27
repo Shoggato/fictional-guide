@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pandas DataFrame.iterrows() Resources</title>
+</head>
+<body>
+    <h1>Pandas DataFrame.iterrows() Resources</h1>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iterrows.html">Pandas Documentation: DataFrame.iterrows()</a></li>
+        <li><a href="https://www.w3schools.com/python/pandas/ref_df_iterrows.asp">W3Schools: pandas.DataFrame.iterrows()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/pandas-dataframe-iterrows-function-in-python/">GeeksforGeeks: pandas.DataFrame.iterrows() in Python</a></li>
+        <li><a href="https://www.educba.com/pandas-iterrows/">Educba: pandas iterrows() Method</a></li>
+        <li><a href="https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas">Stack Overflow: How to Iterate Over Rows in a DataFrame in Pandas</a></li>
+        <li><a href="https://www.learndatasci.com/solutions/how-iterate-over-rows-pandas/">LearnDataSci: How to Iterate Over Rows in Pandas</a></li>
+        <li><a href="https://www.educative.io/answers/what-is-pandas-dataframeiterrows-in-python">Educative: What is pandas.DataFrame.iterrows() in Python</a></li>
+        <li><a href="https://pythonexamples.org/pandas-dataframe-iterate-rows-iterrows/">Python Examples: Pandas DataFrame Iterate Rows (iterrows)</a></li>
+        <li><a href="https://python.plainenglish.io/how-to-use-iterrows-in-pandas-b6c073a75fbf">Python Plain English: How to Use iterrows() in Pandas</a></li>
+        <li><a href="https://www.studytonight.com/pandas/pandas-dataframe-iterrows-method">StudyTonight: pandas.DataFrame.iterrows() Method</a></li>
+        <li><a href="https://www.javatpoint.com/pandas-dataframe-iterrows">JavaTpoint: pandas.DataFrame.iterrows()</a></li>
+        <li><a href="https://lifewithdata.com/2022/02/18/pandas-iterrows-itertuples-iterating-over-rows-in-pandas/">Life With Data: Iterating Over Rows in Pandas</a></li>
+        <li><a href="https://www.w3resource.com/pandas/dataframe/dataframe-iterrows.php">W3Resource: Pandas DataFrame.iterrows() Method</a></li>
+        <li><a href="https://pythonguides.com/pandas-dataframe-iterrows/">Python Guides: pandas DataFrame.iterrows()</a></li>
+        <li><a href="https://sparkbyexamples.com/pandas/iterate-over-rows-in-pandas-dataframe/">Spark by Examples: Iterate Over Rows in Pandas DataFrame</a></li>
+    </ul>
+    <h2>Alternative Iteration Methods</h2>
+    <ul>
+        <li><a href="https://towardsdatascience.com/efficiently-iterating-over-rows-in-a-pandas-dataframe-7dd5f9992c01">Towards Data Science: Efficiently Iterating Over Rows in a Pandas DataFrame</a></li>
+        <li><a href="https://ryxcommar.com/2020/01/15/for-the-love-of-god-stop-using-iterrows/">For the Love of God, Stop Using iterrows()</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pandas Groupby, Loc, Merge, Plot, and Subplots Resources</title>
+</head>
+<body>
+    <h1>Pandas Groupby, Loc, Merge, Plot, and Subplots Resources</h1>
+    
+    <h2>Pandas Groupby and Plot:</h2>
+    <ul>
+        <li><a href="https://www.statology.org/pandas-groupby-plot/">Statology - Pandas Groupby and Plot</a></li>
+        <li><a href="https://stackoverflow.com/questions/41494942/pandas-dataframe-groupby-plot">Stack Overflow - Pandas DataFrame Groupby Plot</a></li>
+        <li><a href="https://stackoverflow.com/questions/45299305/how-to-plot-pandas-groupby-values-in-a-graph">Stack Overflow - Plotting Pandas Groupby Values</a></li>
+        <li><a href="https://pandas.pydata.org/pandas-docs/version/0.16.2/generated/pandas.core.groupby.DataFrameGroupBy.plot.html">Pandas Documentation - DataFrameGroupBy.plot()</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.plot.html">Pandas Documentation - DataFrameGroupBy.plot() (Latest)</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.SeriesGroupBy.hist.html">Pandas SeriesGroupBy.hist() Documentation</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.SeriesGroupBy.plot.html">Pandas SeriesGroupBy.plot() Documentation</a></li>
+        <li><a href="https://python.plainenglish.io/making-plots-with-the-pandas-groupby-ac492941af28">Plain English - Making Plots with the Pandas Groupby</a></li>
+        <li><a href="https://www.geeksforgeeks.org/plot-the-size-of-each-group-in-a-groupby-object-in-pandas/">GeeksforGeeks - Plot the Size of Each Group in Pandas Groupby</a></li>
+        <li><a href="https://scentellegher.github.io/programming/2017/07/15/pandas-groupby-multiple-columns-plot.html">Scentellegher - Pandas Groupby Multiple Columns Plot</a></li>
+        <li><a href="https://www.youtube.com/watch?v=122MWbjmWFI">YouTube - Pandas Groupby Plot Tutorial</a></li>
+        <li><a href="https://www.easytweaks.com/pandas-plot-groupby-values/">EasyTweaks - Pandas Plot Groupby Values</a></li>
+        <li><a href="https://www.bitdegree.org/learn/best-code-editor/pandas-groupby-example-3">BitDegree - Pandas Groupby Example</a></li>
+    </ul>
+    
+    <h2>Using a Variable for Charts and Attributes:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/user_guide/visualization.html">Pandas Documentation - Visualization with a Variable</a></li>
+    </ul>
+    
+    <h2>Loc Function:</h2>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/56011751/how-to-use-loc-function-to-collect-data-from-certain-rows">Stack Overflow - How to Use loc Function</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-pandas-dataframe-loc/">GeeksforGeeks - Python Pandas DataFrame loc()</a></li>
+        <li><a href="https://sparkbyexamples.com/pandas/pandas-dataframe-loc/">SparkbyExamples - Pandas DataFrame loc()</a></li>
+        <li><a href="https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/">Shane Lynn - Bar Plots in Python Using Pandas DataFrames</a></li>
+        <li><a href="https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot">Queirozf - Pandas DataFrame Plot Examples with Matplotlib pyplot</a></li>
+        <li><a href="https://geo-python-site.readthedocs.io/en/latest/notebooks/L7/matplotlib.html">Geo-Python - Matplotlib Basics</a></li>
+        <li><a href="https://towardsdatascience.com/how-to-use-loc-in-pandas-49ed348a4117">Towards Data Science - How to Use loc in Pandas</a></li>
+    </ul>
+    
+    <h2>Merge Refresher:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/user_guide/merging.html">Pandas Documentation - Merging DataFrames</a></li>
+    </ul>
+    
+    <h2>Column Name Refresher:</h2>
+    <ul>
+        <li><a href="https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/">freeCodeCamp - How to Rename a Column in Pandas</a></li>
+    </ul>
+    
+    <h2>Column Name Rename After Merge:</h2>
+    <ul>
+        <li><a href="https://datascienceparichay.com/article/pandas-rename-columns-after-merge/">Data Science Parichay - Rename Columns After Merge</
+    <h2>Multiple Merge:</h2>
+    <ul>
+        <li><a href="https://sparkbyexamples.com/pandas/pandas-merge-multiple-dataframes-2/">Pandas Merge Multiple Dataframes</a></li>
+        <li><a href="https://stackoverflow.com/questions/23668427/pandas-three-way-joining-multiple-dataframes-on-columns">Pandas Three-way Joining Multiple Dataframes on Columns</a></li>
+    </ul>
+            
+    <h2>Multiple Plots:</h2>
+    <ul>
+        <li><a href="https://towardsdatascience.com/4-simple-tips-for-plotting-multiple-graphs-in-python-38df2112965c">4 Simple Tips for Plotting Multiple Graphs in Python</a></li>
+        <li><a href="https://www.tutorialkart.com/matplotlib-tutorial/matplotlib-draw-multiple-graphs-on-single-plot/#gsc.tab=0">Matplotlib Draw Multiple Graphs on Single Plot</a></li>
+        <li><a href="https://stackoverflow.com/questions/22276066/how-to-plot-multiple-functions-on-the-same-figure">How to Plot Multiple Functions on the Same Figure</a></li>
+        <li><a href="https://www.tutorialspoint.com/how-to-plot-multiple-graphs-in-matplotlib">How to Plot Multiple Graphs in Matplotlib</a></li>
+        <li><a href="https://www.cyberithub.com/how-to-plot-multiple-graphs-in-python-using-matplotlib/">How to Plot Multiple Graphs in Python Using Matplotlib</a></li>
+        <li><a href="https://www.statology.org/matplotlib-multiple-plots/">Matplotlib Multiple Plots</a></li>
+    </ul>
+            
+    <h2>Subplots or Side-by-Side Plots:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html">Subplots Demo</a></li>
+        <li><a href="https://www.geeksforgeeks.org/plot-multiple-plots-in-matplotlib/">Plot Multiple Plots in Matplotlib</a></li>
+        <li><a href="https://learnt.io/blog/how-to-plot-multiple-graphs-in-python/">How to Plot Multiple Graphs in Python</a></li>
+        <li><a href="https://python-course.eu/numerical-programming/creating-subplots-in-matplotlib.php">Creating Subplots in Matplotlib</a></li>
+        <li><a href="https://stackoverflow.com/questions/31726643/how-to-plot-in-multiple-subplots">How to Plot in Multiple Subplots</a></li>
+        <li><a href="https://www.w3schools.com/python/matplotlib_subplot.asp">Python Matplotlib Subplot</a></li>
+        <li><a href="https://www.machinelearningplus.com/plots/subplots-python-matplotlib/">Subplots Python Matplotlib</a></li>
+        <li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html">Multiple Subplots</a></li>
+        <li><a href="https://education.molssi.org/python-visualization/matplotlib/subplots.html">Creating Subplots with Matplotlib</a></li>
+    </ul>
+            

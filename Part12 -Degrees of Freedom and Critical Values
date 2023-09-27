@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi-Square Tests and Degrees of Freedom Resources</title>
+</head>
+<body>
+    <h1>Chi-Square Tests and Degrees of Freedom Resources</h1>
+    
+    <h2>Introduction to Chi-Square Tests</h2>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Chi-squared_test">Wikipedia - Chi-Square Test</a></li>
+        <li><a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/8-chi-squared-tests">BMJ - Chi-Squared Tests</a></li>
+        <li><a href="https://www.simplilearn.com/tutorials/statistics-tutorial/chi-square-test">Simplilearn - Chi-Square Test Tutorial</a></li>
+    </ul>
+    
+    <h2>Chi-Square Test Videos</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=rpKzq64GA9Y">Video 1 - Chi-Square Test Overview</a></li>
+        <li><a href="https://www.youtube.com/watch?v=7_cs1YlZoug">Video 2 - Chi-Square Test Example</a></li>
+        <li><a href="https://www.youtube.com/watch?v=QE0v3HHcKbs">Video 3 - Chi-Square Test Explanation</a></li>
+        <li><a href="https://www.youtube.com/watch?v=w5iKu1IrTJQ">Video 4 - Chi-Square Test Tutorial</a></li>
+        <li><a href="https://www.youtube.com/watch?v=lPeusRdF4q0">Video 5 - Chi-Square Test in Python</a></li>
+        <li><a href="https://www.youtube.com/watch?v=rvO6kiAbRtQ">Video 6 - Chi-Square Test Walkthrough</a></li>
+    </ul>
+    
+    <h2>Additional Chi-Square Resources</h2>
+    <ul>
+        <li><a href="https://www.investopedia.com/terms/d/degrees-of-freedom.asp">Investopedia - Degrees of Freedom</a></li>
+        <li><a href="https://www.scribbr.com/statistics/degrees-of-freedom/">Scribbr - Degrees of Freedom in Statistics</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)">Wikipedia - Degrees of Freedom (Statistics)</a></li>
+        <li><a href="https://sites.utexas.edu/sos/degreesfreedom/">University of Texas - Degrees of Freedom</a></li>
+        <li><a href="https://www.wallstreetmojo.com/degrees-of-freedom/">WallStreetMojo - Degrees of Freedom</a></li>
+        <li><a href="https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/degrees-of-freedom/">StatisticsHowTo - Degrees of Freedom</a></li>
+        <li><a href="https://blog.minitab.com/en/statistics-and-quality-data-analysis/what-are-degrees-of-freedom-in-statistics">Minitab Blog - What Are Degrees of Freedom in Statistics</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Degrees_of_freedom">Wikipedia - Degrees of Freedom</a></li>
+        <li><a href="https://vitalflux.com/degree-of-freedom-in-statistics-meaning-examples/">Vitalflux - Degree of Freedom in Statistics</a></li>
+        <li><a href="https://www.sciencedirect.com/topics/mathematics/degrees-of-freedom">ScienceDirect - Degrees of Freedom</a></li>
+    </ul>
+    
+    <h2>Python Implementation</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chisquare.html">scipy.stats.chisquare</a></li>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html">scipy.stats.chi2_contingency</a></li>
+        <li><a href="https://www.kaggle.com/code/hamelg/python-for-data-25-chi-squared-tests">Kaggle - Python for Data - Chi-Squared Tests</a></li>
+        <li><a href="https://www.tutorialspoint.com/how-to-perform-a-chi-square-goodness-of-fit-test-in-python">TutorialsPoint - Chi-Square Goodness of Fit Test in Python</a></li>
+        <li><a href="https://www.youtube.com/watch?v=EvTleN2CsnE">Video - Python for Chi-Square Test</a></li>
+        <li><a href="https://www.youtube.com/watch?v=CTPX33yyor4">Video - Python for Chi-Square Test 2</a></li>
+        <li><a href="https://python.plainenglish.io/calculate-the-statistical-degree-of-freedom-using-python-63c5a373e6bd">Python Plain English - Calculate Degrees of Freedom</a></li>
+        <li><a href="https://python.plainenglish.io/what-are-degrees-of-freedom-1f5a3987bc00">Python Plain English - What Are Degrees of Freedom?</a></li>
+        <li><a href="https://www.geeksforgeeks.org/degrees-of-freedom/">GeeksforGeeks - Degrees of Freedom in Statistics</a></li>
+        <li><a href="https://stackoverflow.com/questions/49473757/python-degrees-of-freedom">Stack Overflow - Python Degrees of Freedom</a></li>
+        <li><a href="https://machinelearningmastery.com/degrees-of-freedom-in-machine-learning/">Machine Learning Mastery - Degrees of Freedom in Machine Learning</a></li>
+        <li><a href="https://medium.com/@vinaychaudhari1996/what-is-the-degree-of-freedom-understand-it-with-python-example-1b46b4891e9e">Medium - Understand Degrees of Freedom with Python Example</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Statistics and normaltest Resources</title>
+</head>
+<body>
+    <h1>Python Statistics and normaltest Resources</h1>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/stats.html">SciPy Statistics Module Documentation</a></li>
+        <li><a href="https://docs.python.org/3/library/statistics.html">Python Standard Library - statistics Module Documentation</a></li>
+        <li><a href="https://realpython.com/python-statistics/">Real Python - Guide to Python Statistics</a></li>
+        <li><a href="https://www.tutorialspoint.com/scipy/scipy_stats.htm">TutorialsPoint - SciPy Statistics Tutorial</a></li>
+    </ul>
+
+    <h2>normaltest Function:</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.normaltest.html">SciPy Documentation - scipy.stats.normaltest()</a></li>
+        <li><a href="https://stackoverflow.com/questions/12838993/scipy-normaltest-how-is-it-used">Stack Overflow - How to Use scipy.stats.normaltest()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/scipy-stats-normaltest-function-python/">GeeksforGeeks - Using scipy.stats.normaltest() in Python</a></li>
+    </ul>
+</body>
+</html>

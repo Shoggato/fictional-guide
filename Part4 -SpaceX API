@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpaceX API Resources</title>
+</head>
+<body>
+    <h1>SpaceX API Documentation and Resources</h1>
+    <ul>
+        <li><a href="https://docs.spacexdata.com/">SpaceX API Documentation</a></li>
+        <li><a href="https://github.com/r-spacex/SpaceX-API">SpaceX API GitHub Repository</a></li>
+        <li><a href="https://www.cloudofficeprint.com/docs/examples/spacex_example.html">Cloud Office Print SpaceX Example</a></li>
+        <li><a href="https://studio.apollographql.com/public/SpaceX-pxxbxen/variant/current/home">Apollo GraphQL SpaceX API</a></li>
+        <li><a href="https://medium.com/open-graphql/migrating-spacex-api-to-graphql-e1fe69a3a8e7">Migrating SpaceX API to GraphQL (Medium Article)</a></li>
+        <li><a href="https://documenter.getpostman.com/view/1559645/RVtvsEFr">Postman Documentation for SpaceX API</a></li>
+        <li><a href="https://www.postman.com/api-evangelist/workspace/space/documentation/35240-8f1362db-287e-4dfe-b8eb-2fca10226219">Postman SpaceX API Workspace</a></li>
+        <li><a href="https://docs.airbyte.com/integrations/sources/spacex-api/">Airbyte Integration with SpaceX API</a></li>
+        <li><a href="https://pypi.org/project/spacexpypi/">SpaceXPyPI Python Package</a></li>
+        <li><a href="https://spacepy-x.readthedocs.io/en/master/">SpacePy-X Documentation</a></li>
+        <li><a href="https://www.thedataschool.com.au/sylvia-yang/dashboard-week-day1-spacex-api/">Dashboard Week Day 1 - SpaceX API</a></li>
+        <li><a href="https://devpost.com/software/spacex-rocket-launch-update">SpaceX Rocket Launch Update on Devpost</a></li>
+    </ul>
+</body>
+</html>

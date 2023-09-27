@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Normal Distribution Resources</title>
+</head>
+<body>
+    <h1>Normal Distribution Resources</h1>
+    <ul>
+        <li><a href="https://www.investopedia.com/terms/n/normaldistribution.asp">Investopedia - Normal Distribution Overview</a></li>
+        <li><a href="https://www.mathsisfun.com/data/standard-normal-distribution.html">Math Is Fun - Standard Normal Distribution</a></li>
+        <li><a href="https://www.scribbr.com/statistics/normal-distribution/">Scribbr - Understanding the Normal Distribution</a></li>
+        <li><a href="https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/a/normal-distributions-review">Khan Academy - Normal Distributions Review</a></li>
+    </ul>
+
+    <h2>Video:</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=rzFX5NWojp0">YouTube - Normal Distribution Video</a></li>
+    </ul>
+</body>
+</html>

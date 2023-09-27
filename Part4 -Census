@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Census Data API Resources</title>
+</head>
+<body>
+    <h1>Census Data API Resources</h1>
+    <h2>Python Libraries and Packages</h2>
+    <ul>
+        <li><a href="https://pypi.org/project/census/">Census Python Package on PyPI</a></li>
+        <li><a href="https://pygis.io/docs/d_access_census.html">PyGIS Documentation: Accessing Census Data</a></li>
+    </ul>
+    <h2>Census API Documentation</h2>
+    <ul>
+        <li><a href="https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf">Census API User Guide</a></li>
+        <li><a href="https://www.census.gov/content/dam/Census/library/publications/2020/acs/acs_api_handbook_2020_ch02.pdf">ACS API Handbook (2020)</a></li>
+    </ul>
+    <h2>Tutorials and Guides</h2>
+    <ul>
+        <li><a href="https://medium.com/@mcmanus_data_works/using-the-u-s-census-bureau-api-with-python-5c30ad34dbd7">Using the U.S. Census Bureau API with Python</a></li>
+        <li><a href="https://andrewpwheeler.com/2022/05/27/getting-census-data-over-time/">Getting Census Data Over Time</a></li>
+        <li><a href="https://acsdatacommunity.prb.org/discussion-forum/f/forum/706/working-with-census-api-and-acs-5-year-data">Working with Census API and ACS 5-Year Data</a></li>
+        <li><a href="http://labs.centerforgov.org/Analytics-Training/20160720_PythonCensus/#1">Python Census Data Workshop</a></li>
+        <li><a href="https://sesync-ci.github.io/online-data-lesson/index.html">Online Data Lesson: Census Data</a></li>
+        <li><a href="https://walker-data.com/umich-workshop-2023/python/#1">UMich Workshop: Python Census Data</a></li>
+        <li><a href="https://towardsdatascience.com/accessing-census-data-with-python-3e2f2b56e20d">Accessing Census Data with Python</a></li>
+    </ul>
+    <h2>Stack Overflow Questions</h2>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/63068283/accessing-census-acs5-median-income-block-group-data-in-python-with-acs5-get">Accessing Census ACS5 Median Income Block Group Data in Python</a></li>
+        <li><a href="https://stackoverflow.com/questions/62390459/can-i-get-place-names-and-variable-labels-from-the-census-api">Getting Place Names and Variable Labels from the Census API</a></li>
+        <li><a href="https://stackoverflow.com/questions/57499548/how-to-fix-a-positional-argument-in-order-to-successfully-run-a-census-api-for">Fixing a Positional Argument to Run a Census API</a></li>
+        <li><a href="https://stackoverflow.com/questions/75837380/getting-data-from-census-data-api-is-not-working">Getting Data from Census Data API Not Working</a></li>
+        <li><a href="https://stackoverflow.com/questions/57741303/how-to-filter-census-data-from-api-with-a-created-list-of-zipcodes">Filtering Census Data from API with a List of Zipcodes</a></li>
+    </ul>
+    <h2>Other Resources</h2>
+    <ul>
+        <li><a href="https://github.com/movingpandas/movingpandas/issues/91">Issue on MovingPandas GitHub: Using Census Data API</a></li>
+        <li><a href="https://pegasus.readthedocs.io/en/0.x/_modules/scplot/plot.html">Pegasus Documentation: scplot.plot</a></li>
+        <li><a href="https://shinymodels.tidymodels.org/reference/explore.html">Tidymodels: explore() Function Reference</a></li>
+    </ul>
+</body>
+</html>

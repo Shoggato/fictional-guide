@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computing Mean, Median, and Mode with NumPy and SciPy</title>
+</head>
+<body>
+    <h1>Computing Mean, Median, and Mode with NumPy and SciPy</h1>
+    
+    <h2>Mean:</h2>
+    <ul>
+        <li><a href="https://numpy.org/doc/stable/reference/generated/numpy.mean.html">NumPy Documentation - numpy.mean()</a></li>
+        <li><a href="https://www.w3schools.com/python/python_ml_mean_median_mode.asp">W3Schools - Computing Mean with NumPy</a></li>
+        <li><a href="https://www.educative.io/answers/how-to-compute-mean-median-and-mode-using-numpy-in-python">Educative - Computing Mean with NumPy</a></li>
+        <li><a href="https://machinelearningknowledge.ai/tutorial-numpy-mean-numpy-median-numpy-mode-numpy-standard-deviation-in-python/">Machine Learning Knowledge - NumPy Mean Tutorial</a></li>
+        <li><a href="http://www.learningaboutelectronics.com/Articles/How-to-compute-the-mean-median-and-mode-in-Python.php">Learning About Electronics - Computing Mean with NumPy</a></li>
+    </ul>
+
+    <h2>Median:</h2>
+    <ul>
+        <li><a href="https://numpy.org/doc/stable/reference/generated/numpy.median.html">NumPy Documentation - numpy.median()</a></li>
+        <li><a href="https://www.w3schools.com/python/python_ml_mean_median_mode.asp">W3Schools - Computing Median with NumPy</a></li>
+        <li><a href="https://www.educative.io/answers/how-to-compute-mean-median-and-mode-using-numpy-in-python">Educative - Computing Median with NumPy</a></li>
+        <li><a href="https://machinelearningknowledge.ai/tutorial-numpy-mean-numpy-median-numpy-mode-numpy-standard-deviation-in-python/">Machine Learning Knowledge - NumPy Median Tutorial</a></li>
+        <li><a href="http://www.learningaboutelectronics.com/Articles/How-to-compute-the-mean-median-and-mode-in-Python.php">Learning About Electronics - Computing Median with NumPy</a></li>
+    </ul>
+
+    <h2>Mode:</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mode.html">SciPy Documentation - scipy.stats.mode()</a></li>
+    </ul>
+</body>
+</html>

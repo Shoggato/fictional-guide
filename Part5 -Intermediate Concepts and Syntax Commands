@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL Resources</title>
+</head>
+<body>
+    <h2>SQL Joins Resources:</h2>
+    <ul>
+        <li><a href="https://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_V2.png">Visual SQL Joins</a></li>
+        <li><a href="https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins">Visual Representation of SQL Joins</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_join.asp">W3Schools SQL Join</a></li>
+        <li><a href="https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/">GeeksforGeeks SQL Join</a></li>
+        <li><a href="https://www.techonthenet.com/sql/joins.php">TechOnTheNet SQL Joins</a></li>
+        <li><a href="https://www.dofactory.com/sql/join">DoFactory SQL Join</a></li>
+        <li><a href="https://www.programiz.com/sql/join">Programiz SQL Join</a></li>
+        <li><a href="https://www.tutorialspoint.com/sql/sql-using-joins.htm">TutorialsPoint SQL Join</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-ver16">Microsoft SQL Join</a></li>
+        <li><a href="https://launchschool.com/books/sql/read/joins">LaunchSchool SQL Join</a></li>
+        <li><a href="https://www.scaler.com/topics/sql/joins-in-sql/">Scaler SQL Joins</a></li>
+        <li><a href="https://mode.com/sql-tutorial/sql-joins/">Mode SQL Joins</a></li>
+    </ul>
+
+    <h2>Part 10: JOINS</h2>
+    <ul>
+        <li><a href="https://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg">Visual SQL Joins Overview</a></li>
+        <li><a href="https://www.tutorialspoint.com/postgresql/postgresql_using_joins.htm">PostgreSQL Joins Tutorial</a></li>
+    </ul>
+
+    <h2>Part 01: Import Data</h2>
+    <ul>
+        <li><a href="https://dev.mysql.com/doc/sakila/en/">MySQL Sakila Database Documentation</a></li>
+        <li><a href="https://github.com/devrimgunduz/pagila">Pagila Database on GitHub</a></li>
+        <li><a href="https://stackoverflow.com/questions/43839812/how-to-import-schema-sql-file-to-a-postgresql-database">Import Schema to PostgreSQL</a></li>
+        <li><a href="https://www.youtube.com/watch?v=WkJrlC6sxZ4">Video: Import Data to PostgreSQL</a></li>
+        <li><a href="https://stackoverflow.com/questions/6842393/import-sql-dump-into-postgresql-database">Import SQL Dump to PostgreSQL</a></li>
+        <li><a href="https://stackoverflow.com/questions/67700392/import-sql-file-to-a-specific-schema-not-in-public-schema-postgresql-12">Import SQL File to Specific Schema in PostgreSQL</a></li>
+        <li><a href="https://stackoverflow.com/questions/51566090/how-to-import-a-schema-sql-file-using-pgadmin-4">Import Schema SQL File using PgAdmin 4</a></li>
+        <li><a href="https://www.postgresql.org/docs/current/sql-importforeignschema.html">PostgreSQL Import Foreign Schema</a></li>
+        <li><a href="https://www.enterprisedb.com/postgres-tutorials/how-load-sample-database-schemas-and-data-postgresql">Load Sample Database Schemas in PostgreSQL</a></li>
+        <li><a href="https://www.prisma.io/dataguide/postgresql/inserting-and-modifying-data/importing-and-exporting-data-in-postgresql">Import and Export Data in PostgreSQL</a></li>
+        <li><a href="https://www.a2hosting.com/kb/developer-corner/postgresql/import-and-export-a-postgresql-database/">Import and Export PostgreSQL Database</a></li>
+        <li><a href="https://dba.stackexchange.com/questions/209023/how-to-import-an-existing-schema-and-tablespace-into-a-postgres-database-from-a">Import Schema and Tablespace into PostgreSQL</a></li>
+        <li><a href="https://www.youtube.com/watch?v=WkJrlC6sxZ4">Video: Import CSV to PostgreSQL</a></li>
+        <li><a href="https://www.enterprisedb.com/postgres-tutorials/how-import-and-export-data-using-csv-files-postgresql">Import Data from CSV in PostgreSQL</a></li>
+        <li><a href="https://hasura.io/docs/latest/schema/postgres/postgres-guides/import-data-from-csv/">Import Data from CSV in PostgreSQL (Hasura)</a></li>
+        <li><a href="https://www.makeuseof.com/postgresql-csv-data-import-export/">Import and Export CSV Data in PostgreSQL</a></li>
+        <li><a href="https://www.warp.dev/terminus/import-csv-to-postgres">Import CSV to PostgreSQL (Warp.dev)</a></li>
+        <li><a href="https://medium.com/codex/how-to-import-csv-files-to-postgresql-database-7749831a7742">Import CSV Files to PostgreSQL</a></li>
+        <li><a href="https://dataschool.com/learn-sql/importing-data-from-csv-in-postgresql/">Importing Data from CSV in PostgreSQL</a></li>
+        <li><a href="https://docs.devart.com/studio-for-postgresql/exporting-and-importing-data/csvimport.html">CSV Import in PostgreSQL (Devart)</a></li>
+        <li><a href="https://www.commandprompt.com/education/how-to-import-a-csv-file-to-a-postgresql-table/">Import CSV to PostgreSQL Table</a></li>
+        <li><a href="https://www.educba.com/postgresql-import-csv/">PostgreSQL Import CSV</a></li>
+        <li><a href="https://www.commandprompt.com/education/how-to-import-a-csv-file-to-a-postgresql-table/">Import CSV to PostgreSQL Table (CommandPrompt)</a></li>
+        <li><a href="https://blog.n8n.io/import-csv-into-postgresql/">Import CSV into PostgreSQL (n8n.io)</a></li>
+        <li><a href="https://cloud.google.com/sql/docs/postgres/import-export/import-export-csv">Import and Export CSV in Google Cloud SQL</a></li>
+    </ul>
+
+    <h2>Part 08: Logical Operators - AND/OR (and NOT)</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/sql/sql_and_or.asp">W3Schools SQL AND/OR</a></li>
+        <li><a href="https://www.techonthenet.com/sql/and_or.php">TechOnTheNet SQL AND/OR</a></li>
+        <li><a href="https://www.geeksforgeeks.org/sql-and-and-or-operators/">GeeksforGeeks SQL AND and OR</a></li>
+        <li><a href="https://www.tutorialspoint.com/sql/sql-and-or-clauses.htm">TutorialsPoint SQL AND/OR Clauses</a></li>
+        <li><a href="https://www.dofactory.com/sql/where-and-or-not">DoFactory SQL WHERE, AND, OR, and NOT</a></li>
+        <li><a href="https://www.programiz.com/sql/and-or-not">Programiz SQL AND, OR, and NOT</a></li>
+        <li><a href="https://beginnersbook.com/2018/11/sql-and-or-and-not-together/">SQL AND, OR, and NOT Together</a></li>
+        <li><a href="https://www.databasejournal.com/features/sql-and-or-not-operator/">Database Journal SQL AND, OR, and NOT Operator</a></li>
+    </ul>
+
+    <h2>SQL Update Resources:</h2>
+    <ul>
+        <li><a href="https://intellipaat.com/blog/tutorial/sql-tutorial/update-query/?US">SQL Update Query Tutorial</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_update.asp">W3Schools SQL Update</a></li>
+        <li><a href="https://www.geeksforgeeks.org/sql-update-statement/">GeeksforGeeks SQL Update</a></li>
+        <li><a href="https://www.techonthenet.com/sql_server/update.php">TechOnTheNet SQL Update</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/sql/t-sql/queries/update-transact-sql?view=sql-server-ver16">Microsoft SQL Update</a></li>
+        <li><a href="https://www.javatpoint.com/sql-update">JavaTpoint SQL Update</a></li>
+        <li><a href="https://www.programiz.com/sql/update">Programiz SQL Update</a></li>
+        <li><a href="https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/">FreeCodeCamp SQL Update</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Update_(SQL)">Wikipedia: SQL Update</a></li>
+        <li><a href="https://docs.oracle.com/javadb/10.8.3.0/ref/rrefsqlj26498.html">Oracle SQL Update</a></li>
+    </ul>
+
+    <h2>SQL Alter Table, Alter Column, and Related Commands:</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/sql/sql_alter.asp">W3Schools SQL ALTER TABLE</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_ref_alter_table.asp">W3Schools SQL ALTER TABLE Reference</a></li>
+        <li><a href="https://www.techonthenet.com/sql/tables/alter_table.php">TechOnTheNet SQL ALTER TABLE</a></li>
+        <li><a href="https://www.tutorialspoint.com/sql/sql-alter-command.htm">TutorialsPoint SQL ALTER COMMAND</a></li>
+        <li><a href="https://www.geeksforgeeks.org/sql-alter-add-drop-modify/">GeeksforGeeks SQL ALTER ADD, DROP, MODIFY</a></li>
+        <li><a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-table-add-column/">SQL Server ALTER TABLE - Add Column</a></li>
+        <li><a href="https://www.sqlshack.com/sql-queries-to-change-the-column-type/">SQL Queries to Change Column Type</a></li>
+        <li><a href="https://www.simplilearn.com/tutorials/sql-tutorial/add-column-in-sql">Add Column in SQL (Simplilearn)</a></li>
+    </ul>
+
+    <h2>Alter Column Resources:</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/sql/sql_ref_alter_column.asp">W3Schools SQL ALTER COLUMN</a></li>
+        <li><a href="https://docs.snowflake.com/en/sql-reference/sql/alter-table-column">Snowflake ALTER TABLE COLUMN</a></li>
+        <li><a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-table-alter-column/">SQL Server ALTER TABLE ALTER COLUMN</a></li>
+    </ul>
+
+    <h2>PostgreSQL Alter Table and Column Resources:</h2>
+    <ul>
+        <li><a href="https://www.postgresql.org/docs/current/sql-altertable.html">PostgreSQL ALTER TABLE</a></li>
+        <li><a href="https://www.postgresql.org/docs/current/ddl-alter.html">PostgreSQL DDL ALTER</a></li>
+        <li><a href="https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-alter-table/">PostgreSQL ALTER TABLE Tutorial</a></li>
+        <li><a href="https://www.geeksforgeeks.org/postgresql-change-column-type/">GeeksforGeeks PostgreSQL Change Column Type</a></li>
+        <li><a href="https://www.techonthenet.com/postgresql/tables/alter_table.php">TechOnTheNet PostgreSQL ALTER TABLE</a></li>
+    </ul>
+
+    <h2>PostgreSQL Rename Column Resources:</h2>
+    <ul>
+        <li><a href="https://www.tutorialsteacher.com/postgresql/rename-column">Rename Column in PostgreSQL</a></li>
+        <li><a href="https://popsql.com/learn-sql/postgresql/how-to-rename-a-column-in-postgresql">How to Rename a Column in PostgreSQL</a></li>
+        <li><a href="https://www.javatpoint.com/postgresql-rename-column">JavaTpoint PostgreSQL Rename Column</a></li>
+    </ul>
+
+    <h2>Part 07: Import CSV data into PostgreSQL</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=6Jf7eTkIaR4">Video: Import CSV to PostgreSQL</a></li>
+        <li><a href="https://www.postgresqltutorial.com/postgresql-tutorial/import-csv-file-into-posgresql-table/">Import CSV into PostgreSQL Tutorial</a></li>
+        <li><a href="https://hevodata.com/learn/postgresql-import-csv/">Import CSV into PostgreSQL (Hevo Data)</a></li>
+        <li><a href="https://stackoverflow.com/questions/2987433/how-to-import-csv-file-data-into-a-postgresql-table">Import CSV Data into PostgreSQL Table</a></li>
+        <li><a href="https://www.enterprisedb.com/postgres-tutorials/how-import-and-export-data-using-csv-files-postgresql">Import and Export Data Using CSV Files in PostgreSQL</a></li>
+        <li><a href="https://hasura.io/docs/latest/schema/postgres/postgres-guides/import-data-from-csv/">Import Data from CSV in PostgreSQL (Hasura)</a></li>
+        <li><a href="https://www.makeuseof.com/postgresql-csv-data-import-export/">PostgreSQL CSV Data Import/Export</a></li>
+        <li><a href="https://www.warp.dev/terminus/import-csv-to-postgres">Import CSV to PostgreSQL (Warp.dev)</a></li>
+        <li><a href="https://medium.com/codex/how-to-import-csv-files-to-postgresql-database-7749831a7742">Import CSV Files to PostgreSQL Database</a></li>
+        <li><a href="https://dataschool.com/learn-sql/importing-data-from-csv-in-postgresql/">Importing Data from CSV in PostgreSQL (Data School)</a></li>
+        <li><a href="https://docs.devart.com/studio-for-postgresql/exporting-and-importing-data/csvimport.html">CSV Import in PostgreSQL (Devart)</a></li>
+        <li><a href="https://blog.devart.com/how-to-import-and-export-csv-files-into-a-postgresql-database.html">Import and Export CSV Files in PostgreSQL (Devart)</a></li>
+    </ul>
+
+    <h2>Part 08: Logical Operators - AND/OR (and NOT)</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/sql/sql_and_or.asp">W3Schools SQL AND/OR</a></li>
+        <li><a href="https://www.postgresql.org/docs/current/functions-comparison.html">PostgreSQL Logical Operators Documentation</a></li>
+        <li><a href="https://www.techonthenet.com/postgresql/not.php">TechOnTheNet PostgreSQL NOT Operator</a></li>
+    </ul>
+</body>
+</html>

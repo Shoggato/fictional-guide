@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New York Times API Resources</title>
+</head>
+<body>
+    <h1>New York Times API Resources</h1>
+    <ul>
+        <li><a href="https://developer.nytimes.com/apis">New York Times Developer APIs</a></li>
+        <li><a href="https://dlab.berkeley.edu/news/getting-started-nyt-api">Getting Started with the New York Times API (Berkeley D-Lab)</a></li>
+        <li><a href="https://towardsdatascience.com/collecting-data-from-the-new-york-times-over-any-period-of-time-3e365504004">Collecting Data from The New York Times Over Any Period of Time (Towards Data Science)</a></li>
+        <li><a href="https://medium.com/mlearning-ai/why-not-hack-your-news-a-simple-guide-to-using-the-new-york-times-api-in-python-fb2709491e96">Using the New York Times API in Python (Medium Article)</a></li>
+        <li><a href="https://www.raymondcamden.com/2022/01/22/searching-the-new-york-times-with-python">Searching The New York Times with Python (Raymond Camden's Blog)</a></li>
+        <li><a href="https://martinheinz.dev/blog/31">Using the New York Times API with Python (Martin Heinz's Blog)</a></li>
+    </ul>
+</body>
+</html>

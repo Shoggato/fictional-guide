@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5.3 -Introduction to Statistics</title>
+</head>
+<body>
+    <h1>Introduction to Statistics</h1>
+    <p><strong>Overview</strong></p><br>
+    <p>Today's lesson combines your knowledge of fundamental statistics with Matplotlib and SciPy. 
+        After a brief review of summary statistics, you will learn how to implement these statistical measures by using Python. 
+        Then, once you’re comfortable with basic statistics in Python, you will learn a few new statistical concepts and models that you can use in your projects. 
+        These include sample versus population, standard error, Pearson correlation coefficients, and linear regression.</p><br>
+    <p><strong>What You'll Learn</strong></p><br>
+    <p>By the end of this lesson, you will be able to:</p><br>
+    <ul>
+        <li>Calculate summary statistics such as mean, median, mode, variance, and standard deviation, by using Python.</li>
+        <li>Plot, characterize, and quantify a normally distributed dataset with Python.</li>
+        <li>Qualitatively and quantitatively identify potential outliers in a dataset.</li>
+        <li>Differentiate between a sample and a population with respect to a dataset.</li>
+        <li>Define and quantify correlation between two factors.</li>
+        <li>Calculate and plot a linear regression with Python.</li>
+    </ul>
+    <p>Table of Contents:</p>
+    <a href="Part1 -Statistical Concepts">Go to Part1</a><br>
+    <a href="Part2 -Calculating Mean, Median, and Mode">Go to Part2</a><br>
+    <a href="Part3 -Intro to Numpy">Go to Part3</a><br>
+    <a href="Part4 -Intro to Scipy">Go to Part4</a><br>
+    <a href="Part5 -Normal Distribution">Go to Part5</a><br>
+    <a href="Part6 -SciPy Stats Module">Go to Part6</a><br>
+    <a href="Part7 -Quantiles and Outliers">Go to Part7</a><br>
+    <a href="Part8 -Sample, Population and SEM">Go to Part8</a><br>
+    <a href="Part9 -Correlation">Go to Part9</a><br>
+    <a href="Part10 -Linear Regression">Go to Part10</a><br>
+    <a href="Part11 -Chi-Square Tests">Go to Part11</a><br>
+    <a href="Part12 -Degrees of Freedom and Critical Values">Go to part12</a><br>
+    <a href="part13 -Intro to Hypothesis Testing">Go to part13</a><br>
+</body>
+</html>

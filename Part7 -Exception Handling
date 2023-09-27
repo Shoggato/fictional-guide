@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Try-Except Resources</title>
+</head>
+<body>
+    <h1>Python Try-Except Resources</h1>
+    <ul>
+        <li><a href="https://www.w3schools.com/python/python_try_except.asp">W3Schools: Python Try...Except</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-try-except/">GeeksforGeeks: Python Try Except</a></li>
+        <li><a href="https://docs.python.org/3/tutorial/errors.html">Python Official Documentation: Errors and Exceptions</a></li>
+        <li><a href="https://pythonbasics.org/try-except/">PythonBasics: Try-Except in Python</a></li>
+        <li><a href="https://python.land/deep-dives/python-try-except">Python.land: Deep Dive into Python Try-Except</a></li>
+        <li><a href="https://realpython.com/python-exceptions/">Real Python: Python Exceptions</a></li>
+        <li><a href="https://www.programiz.com/python-programming/exception-handling">Programiz: Exception Handling in Python</a></li>
+        <li><a href="https://note.nkmk.me/en/python-try-except-else-finally/">nkmk.me: Python Try Except Else Finally</a></li>
+        <li><a href="https://pythonnumericalmethods.berkeley.edu/notebooks/chapter10.03-Try-Except.html">Berkeley: Python Try and Except</a></li>
+        <li><a href="https://www.geeksforgeeks.org/try-except-else-and-finally-in-python/">GeeksforGeeks: Try, Except, Else, and Finally in Python</a></li>
+        <li><a href="https://www.datacamp.com/tutorial/exception-handling-python">DataCamp: Exception Handling in Python</a></li>
+        <li><a href="https://www.udacity.com/blog/2021/09/getting-started-with-try-except-in-python.html">Udacity Blog: Getting Started with Try-Except in Python</a></li>
+        <li><a href="https://blog.enterprisedna.co/python-try-except/">Enterprise DNA: Python Try Except</a></li>
+        <li><a href="https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/">freeCodeCamp: Python Try-Except and Print Exception</a></li>
+        <li><a href="https://stackoverflow.com/questions/17015230/are-nested-try-except-blocks-in-python-a-good-programming-practice">Stack Overflow: Nested Try-Except Blocks in Python</a></li>
+        <li><a href="https://rollbar.com/blog/throwing-exceptions-in-python/">Rollbar Blog: Throwing Exceptions in Python</a></li>
+        <li><a href="https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/">freeCodeCamp: Python Try and Except Statements</a></li>
+        <li><a href="https://rollbar.com/blog/python-catching-multiple-exceptions/">Rollbar Blog: Catching Multiple Exceptions in Python</a></li>
+        <li><a href="https://www.analyticsvidhya.com/blog/2020/04/exception-handling-python/">Analytics Vidhya: Exception Handling in Python</a></li>
+        <li><a href="https://pythonprogramming.net/handling-exceptions-try-except-python-3/">PythonProgramming.net: Handling Exceptions with Try-Except in Python 3</a></li>
+        <li><a href="https://towardsdatascience.com/do-not-abuse-try-except-in-python-d9b8ee59e23b">Towards Data Science: Do Not Abuse Try-Except in Python</a></li>
+        <li><a href="https://www.coursera.org/tutorials/python-exception">Coursera: Python Exception Handling</a></li>
+        <li><a href="https://runestone.academy/ns/books/published/fopp/Exceptions/using-exceptions.html">Runestone Academy: Using Exceptions in Python</a></li>
+        <li><a href="https://sparkbyexamples.com/python/python-try-except-with-examples/">Spark by Examples: Python Try-Except with Examples</a></li>
+    </ul>
+</body>
+</html>

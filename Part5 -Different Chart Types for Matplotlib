@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matplotlib Chart Types</title>
+</head>
+<body>
+    <h1>Matplotlib Chart Types</h1>
+    
+    <h2>Bar Charts:</h2>
+    <ul>
+        <li><a href="https://www.w3schools.in/matplotlib/tutorials/plot-types">W3Schools - Matplotlib Bar Charts</a></li>
+        <li><a href="https://matplotlib.org/2.1.0/api/_as_gen/matplotlib.pyplot.bar.html">Matplotlib Documentation - plt.bar()</a></li>
+    </ul>
+
+    <h2>Pie Charts:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.pie.html">Matplotlib Documentation - plt.pie()</a></li>
+        <li><a href="https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html">Matplotlib Pie Chart Examples</a></li>
+        <li><a href="https://medium.com/@kvnamipara/a-better-visualization-of-pie-charts-by-matplotlib-935b7667d77f">Medium - Better Visualization of Pie Charts with Matplotlib</a></li>
+    </ul>
+
+    <h2>Pie Chart Explode and Equal Axis:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html">Matplotlib Pie Chart Features (Explode and Equal Axis)</a></li>
+        <li><a href="https://www.educative.io/answers/how-to-explode-a-pie-chart-using-matplotlib-in-python">Educative - Exploding a Pie Chart with Matplotlib</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axis.html">Matplotlib Documentation - plt.axis()</a></li>
+    </ul>
+
+    <h2>Scatter Plots:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html">Matplotlib Documentation - plt.scatter()</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>9.2 -Advanced SQL Queries</title>
+</head>
+<body>
+    <h1>9.2 -Advanced SQL Queries</h1>
+    <p><strong>Overview</strong></p><br>
+    <p>This lesson will expand your knowledge of SQL. 
+        It will begin with a deeper dive into queries by covering aggregates, grouping, and ordering. 
+        Then, after a series of practical activities that involve those topics, the lesson will turn to creating subqueries, creating views, and combining both of them.</p><br>
+    <p><strong>What You'll Learn</strong></p><br>
+    <p>By the end of this lesson, you will be able to:</p><br>
+    <ul>
+        <li>Create aggregate queries.</li>
+        <li>Create subqueries to further explore data.</li>
+        <li>Create views and run subqueries off of them.</li>
+    </ul>
+    <p>Table of Contents:</p>
+    <a href="Part1 -Aggregate Functions">Go to Part1</a><br>
+    <a href="Part2 -Subqueries">Go to Part2</a><br>
+    <a href="Part3 -Views and Subqueries">Go to Part3</a><br>
+</body>
+</html>

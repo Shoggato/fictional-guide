@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Part2 -Functions in Pandas</title>
+
+    <h2>Part2 -Functions in Pandas</h2>
+
+    <ul>
+        <li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Save this PDF - Pandas Cheat Sheet</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.html">What is a series? [1 dimensional array]</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html">What is a data frame? [2 dimensional array]</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.min.html">min</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.max.html">max</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.unique.html">unique</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.sum.html">sum</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html">columns</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html">dtypes</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.describe.html">describe (Series)</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html">describe (DataFrame)</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html">head</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.tail.html">tail</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rename.html">rename</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html">value_counts (Series)</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.value_counts.html">value_counts (DataFrame)</a></li>
+        <li><a href="https://stackoverflow.com/questions/33417991/pandas-why-are-double-brackets-needed-to-select-column-after-boolean-indexing">Why is a square bracket required first column pandas?</a></li>
+        <li><a href="https://stackoverflow.com/questions/49061270/python-pandas-dataframe-why-using-double-squared-brackets">Why using double squared brackets in Python Pandas DataFrame?</a></li>
+    </ul>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Concatenation Resources</title>
+</head>
+<body>
+    <h1>URL Concatenation Resources</h1>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/48809809/how-to-concatenate-api-request-url-safely">Stack Overflow: How to Concatenate API Request URL Safely</a></li>
+        <li><a href="https://stackoverflow.com/questions/59496498/string-concatenation-in-url">Stack Overflow: String Concatenation in URL</a></li>
+        <li><a href="https://stackoverflow.com/questions/64004404/how-to-combine-url-and-string-for-api-call">Stack Overflow: How to Combine URL and String for API Call</a></li>
+        <li><a href="https://javascript.plainenglish.io/how-to-safely-concatenate-url-with-node-js-f6527b623d5?gi=c8c85ba75ce0">Medium: How to Safely Concatenate URL with Node.js</a></li>
+        <li><a href="https://medium.com/@ecastille924/write-a-dynamic-fetch-call-with-concat-c523d6b11593">Medium: Write a Dynamic Fetch Call with Concat</a></li>
+        <li><a href="https://laracasts.com/discuss/channels/general-discussion/url-concatenate-variable-into-string">Laracasts: URL Concatenate Variable into String</a></li>
+        <li><a href="https://powerusers.microsoft.com/t5/Customize-Extend/Need-to-concatenate-variable-to-url-in-webapi-code/td-p/2060542">Microsoft Power Users Forum: Concatenate Variable to URL in WebAPI Code</a></li>
+    </ul>
+</body>
+</html>

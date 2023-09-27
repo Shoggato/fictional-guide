@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python List Negative Indexing Resources</title>
+</head>
+<body>
+    <h1>Python List Negative Indexing Resources</h1>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/11367902/negative-list-index">Stack Overflow: Negative list index</a></li>
+        <li><a href="https://stackoverflow.com/questions/52395099/meaning-of-list-1-in-python">Stack Overflow: Meaning of list[-1] in Python</a></li>
+        <li><a href="https://stackoverflow.com/questions/930397/how-do-i-get-the-last-element-of-a-list">Stack Overflow: How do I get the last element of a list</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-negative-index-of-element-in-list/">GeeksforGeeks: Python Negative Index of Element in List</a></li>
+        <li><a href="https://www.i2tutorials.com/what-are-negative-indexes-and-why-are-they-used/">i2Tutorials: What Are Negative Indexes and Why Are They Used?</a></li>
+        <li><a href="https://www.hackerearth.com/practice/notes/samarthbhargav/a-quick-intro-to-indexing-in-python/">HackerEarth: A Quick Intro to Indexing in Python</a></li>
+        <li><a href="https://www.datacamp.com/tutorial/python-list-index">DataCamp: Python List Index</a></li>
+        <li><a href="https://www.askpython.com/python/list/negative-indexing">AskPython: Negative Indexing in Python Lists</a></li>
+        <li><a href="https://www.codingem.com/python-indexing-from-end/">Codingem: Python Indexing from End</a></li>
+        <li><a href="https://www.tutorialspoint.com/what-is-negative-indexing-in-python">TutorialsPoint: What Is Negative Indexing in Python?</a></li>
+        <li><a href="https://www.simplilearn.com/tutorials/python-tutorial/index-in-python">Simplilearn: Index in Python</a></li>
+        <li><a href="https://www.w3schools.com/python/ref_list_index.asp">W3Schools: Python List index() Method</a></li>
+        <li><a href="https://favtutor.com/blogs/get-list-index-python">favtutor: Get List Index in Python</a></li>
+        <li><a href="https://wordaligned.org/articles/negative-sequence-indices-in-python">Word Aligned: Negative Sequence Indices in Python (Article 1)</a></li>
+        <li><a href="https://wordaligned.org/articles/negative-sequence-indices-in-python">Word Aligned: Negative Sequence Indices in Python (Article 2)</a></li>
+    </ul>
+    <h2>Recap: Difference Between Tuples, Dictionaries, and Lists</h2>
+    <ul>
+        <li><a href="https://www.tutorialspoint.com/List-vs-tuple-vs-dictionary-in-Python">TutorialsPoint: List vs. Tuple vs. Dictionary in Python</a></li>
+    </ul>
+</body>
+</html>

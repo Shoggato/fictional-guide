@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistics and Visualization Resources</title>
+</head>
+<body>
+    <h1>Statistics and Visualization Resources</h1>
+    
+    <h2>Quartiles and Quantiles:</h2>
+    <ul>
+        <li><a href="https://www.scribbr.com/statistics/quartiles-quantiles/#:~:text=Quantiles%20are%20values%20that%20split,the%20data%20into%20four%20parts">Scribbr - Quartiles and Quantiles</a></li>
+        <li><a href="https://www.statisticshowto.com/quantile-definition-find-easy-steps/">StatisticsHowTo - Quantile Definition</a></li>
+        <li><a href="https://www.youtube.com/watch?v=IFKQLDmRK0Y">YouTube - Quantiles Explained</a></li>
+        <li><a href="https://www.statista.com/statistics-glossary/definition/356/quantile/">Statista - Quantile Definition</a></li>
+        <li><a href="https://influentialpoints.com/Training/quantiles_as_summary_statistics-principles-properties-assumptions.htm">Influential Points - Quantiles as Summary Statistics</a></li>
+    </ul>
+
+    <h2>Outliers:</h2>
+    <ul>
+        <li><a href="https://www.itl.nist.gov/div898/handbook/prc/section1/prc16.htm">NIST - Outliers</a></li>
+        <li><a href="https://medium.com/@prashant.nair2050/hands-on-outlier-detection-and-treatment-in-python-using-1-5-iqr-rule-f9ff1961a414">Medium - Outlier Detection and Treatment in Python</a></li>
+    </ul>
+
+    <h2>Box Plots:</h2>
+    <ul>
+        <li><a href="https://chartio.com/learn/charts/box-plot-complete-guide/#:~:text=A%20box%20plot%20(aka%20box,line%20marking%20the%20median%20value">Chartio - Box Plot Guide</a></li>
+        <li><a href="https://www.simplypsychology.org/boxplots.html">Simply Psychology - Box Plots</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html">Matplotlib Documentation - plt.boxplot()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/">GeeksforGeeks - Box Plot in Matplotlib</a></li>
+        <li><a href="https://www.scaler.com/topics/matplotlib/boxplot-matplotlib/">Scaler - Matplotlib Box Plot Tutorial</a></li>
+        <li><a href="https://stackabuse.com/matplotlib-box-plot-tutorial-and-examples/">Stack Abuse - Matplotlib Box Plot Tutorial</a></li>
+    </ul>
+
+    <h2>Quantile Calculations in Pandas:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.quantile.html">Pandas Documentation - DataFrame.quantile()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-pandas-dataframe-quantile/">GeeksforGeeks - Pandas DataFrame.quantile()</a></li>
+        <li><a href="https://www.w3schools.com/python/pandas/ref_df_quantile.asp">W3Schools - Pandas DataFrame.quantile()</a></li>
+        <li><a href="https://datagy.io/pandas-quantile/">DataGy - Pandas DataFrame.quantile()</a></li>
+        <li><a href="https://sparkbyexamples.com/pandas/pandas-dataframe-quantile/">SparkByExamples - Pandas DataFrame.quantile()</a></li>
+        <li><a href="https://www.studytonight.com/pandas/pandas-dataframe-quantile-method">StudyTonight - Pandas DataFrame.quantile() Method</a></li>
+    </ul>
+
+    <h2>Histograms:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.hist.html">Pandas Documentation - DataFrame.hist()</a></li>
+        <li><a href="https://mode.com/example-gallery/python_histogram/">Mode - Python Histogram Example</a></li>
+        <li><a href="https://dataindependent.com/pandas/pandas-histogram-dataframe-hist/">Data Independent - Pandas DataFrame.hist()</a></li>
+        <li><a href="https://sparkbyexamples.com/pandas/pandas-plot-a-histogram/">SparkByExamples - Pandas Plot a Histogram</a></li>
+        <li><a href="https://www.geeksforgeeks.org/how-to-create-a-histogram-from-pandas-dataframe/">GeeksforGeeks - Creating a Histogram from Pandas DataFrame</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geoapify API Key Setup Resources</title>
+</head>
+<body>
+    <h1>Geoapify API Key Setup Resources</h1>
+    <h2>Setting Up the Geoapify API Key</h2>
+    <ul>
+        <li><a href="https://www.geoapify.com/">Geoapify Official Website</a></li>
+        <li><a href="https://www.openstreetmap.org/#map=4/38.01/-95.84">OpenStreetMap</a></li>
+        <li><a href="https://waughkes.hashnode.dev/storing-the-api-key-in-a-configuration-file-in-a-python-project-ckofs5bin0721v9s12nmb0bqb">Storing the API Key in a Configuration File in a Python Project</a></li>
+        <li><a href="https://sd18spring.github.io/notes/storing-api-keys">Storing API Keys</a></li>
+        <li><a href="https://python-adv-web-apps.readthedocs.io/en/latest/configparser.html">Python configparser Documentation</a></li>
+        <li><a href="https://community.canvaslms.com/t5/Canvas-Developers-Group/Create-a-Python-Config-File-for-API-Scripts/ba-p/269774">Create a Python Config File for API Scripts</a></li>
+    </ul>
+    <h2>Geoapify API Documentation</h2>
+    <ul>
+        <li><a href="https://apidocs.geoapify.com/docs/places/#about">Geoapify Places API Documentation</a></li>
+        <li><a href="https://requests.readthedocs.io/en/latest/user/quickstart/#passing-parameters-in-urls">Python Requests Quickstart</a></li>
+        <li><a href="https://www.geoapify.com/integrate-geoapify-python-data-science-toolbox">Integrate Geoapify with Python Data Science Toolbox</a></li>
+        <li><a href="https://developers.google.com/maps/documentation/geocoding/get-api-key">Google Maps API Key Documentation</a></li>
+        <li><a href="https://www.geoapify.com/tutorials">Geoapify Tutorials</a></li>
+        <li><a href="https://geezam.com/reverse-geocoding-with-python-and-geoapify/">Reverse Geocoding with Python and Geoapify</a></li>
+        <li><a href="https://pub.towardsai.net/geocode-millions-of-locations-without-being-sued-8a85e8cc8793?gi=4727fbb76500">Geocode Millions of Locations Without Being Sued</a></li>
+        <li><a href="https://geekflare.com/geocoding-maps-api-solution/">Geocoding Maps API Solution</a></li>
+        <li><a href="https://medium.com/@geoapify/5-methods-for-parsing-street-and-postal-addresses-c4d95ae518ef">5 Methods for Parsing Street and Postal Addresses</a></li>
+        <li><a href="https://rapidapi.com/search/geocodify">Geocodify on RapidAPI</a></li>
+        <li><a href="https://andrewpwheeler.com/2016/04/05/using-the-google-geocoding-api-with-python/">Using the Google Geocoding API with Python</a></li>
+    </ul>
+</body>
+</html>

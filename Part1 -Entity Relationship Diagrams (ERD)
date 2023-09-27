@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL and ER Diagram Resources</title>
+</head>
+<body>
+    <h1>SQL and ER Diagram Resources</h1>
+
+    <h2>SQL Sample Database:</h2>
+    <ul>
+        <li><a href="http://www.postgresqltutorial.com/postgresql-sample-database/">PostgreSQL Tutorial: Sample Database</a></li>
+    </ul>
+
+    <h2>Entity-Relationship (ER) Diagram:</h2>
+    <ul>
+        <li><a href="https://www.smartdraw.com/entity-relationship-diagram/">SmartDraw: Entity-Relationship Diagram</a></li>
+        <li><a href="https://www.geeksforgeeks.org/introduction-of-er-model/">GeeksforGeeks: Introduction of ER Model</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model">Wikipedia: Entity–relationship model</a></li>
+        <li><a href="https://www.guru99.com/er-diagram-tutorial-dbms.html">Guru99: ER Diagram Tutorial</a></li>
+        <li><a href="https://www.databasestar.com/entity-relationship-diagram/">DatabaseStar: Entity-Relationship Diagram</a></li>
+        <li><a href="https://www.techtarget.com/searchdatamanagement/definition/entity-relationship-diagram-ERD?Offer=abt_pubpro_AI-Insider">TechTarget: Entity-Relationship Diagram (ERD)</a></li>
+        <li><a href="https://creately.com/guides/er-diagrams-tutorial/">Creately: ER Diagrams Tutorial</a></li>
+        <li><a href="https://www.tutorialspoint.com/dbms/er_diagram_representation.htm">Tutorialspoint: ER Diagram Representation</a></li>
+        <li><a href="https://www.simplilearn.com/tutorials/sql-tutorial/er-diagram-in-dbms">Simplilearn: ER Diagram in DBMS</a></li>
+        <li><a href="https://www.javatpoint.com/dbms-er-model-concept">JavaTpoint: DBMS ER Model Concept</a></li>
+        <li><a href="https://blog.devart.com/create-er-diagram-for-sql-server-database-using-ssms-and-sql-designer.html">Devart Blog: Create ER Diagram for SQL Server Database Using SSMS and SQL Designer</a></li>
+        <li><a href="https://trevor.io/blog/top-7-entity-relationship-diagram-tools">Trevor.io Blog: Top 7 Entity-Relationship Diagram Tools</a></li>
+        <li><a href="https://www.canva.com/graphs/er-diagrams/">Canva: Create ER Diagrams</a></li>
+        <li><a href="https://miro.com/blog/entity-relationship-diagram/">Miro Blog: Entity-Relationship Diagram</a></li>
+    </ul>
+
+    <h2>Videos:</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=QpdhBUYk7Kk">YouTube: SQL Database Video</a></li>
+        <li><a href="https://www.youtube.com/watch?v=lAtCySGDD48">YouTube: ER Diagram Video</a></li>
+    </ul>
+</body>
+</html>

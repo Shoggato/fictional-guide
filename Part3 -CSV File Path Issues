@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Handling Resources</title>
+</head>
+<body>
+    <h1>File Handling Resources</h1>
+    
+    <h2>Working with File Paths in Python:</h2>
+    <p><a href="https://sites.pitt.edu/~naraehan/python3/file_path_cwd.html">File Paths and Current Working Directory (University of Pittsburgh)</a></p>
+    <p><a href="https://realpython.com/working-with-files-in-python/">Working with Files in Python (Real Python)</a></p>
+
+    <h2>Video Tutorial:</h2>
+    <p><a href="https://www.youtube.com/watch?v=7VSttyOXSXk">Watch the Video Tutorial on YouTube</a></p>
+
+    <h2>Path Manipulation in Python:</h2>
+    <p><a href="https://www.geeksforgeeks.org/find-path-to-the-given-file-using-python/">Find Path to the Given File Using Python (GeeksforGeeks)</a></p>
+    <p><a href="https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f">Python 3 Quick Tip: Dealing with File Paths (Medium)</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NumPy Quickstart and Tutorials</title>
+</head>
+<body>
+    <h1>NumPy Quickstart and Tutorials</h1>
+    
+    <h2>NumPy Quickstart:</h2>
+    <ul>
+        <li><a href="https://numpy.org/doc/stable/user/quickstart.html">NumPy Official Quickstart Guide</a></li>
+    </ul>
+
+    <h2>NumPy Tutorials:</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/python/numpy/numpy_intro.asp">W3Schools - NumPy Introduction</a></li>
+    </ul>
+</body>
+</html>

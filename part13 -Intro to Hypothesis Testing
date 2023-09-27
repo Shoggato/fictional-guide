@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hypothesis Testing Resources</title>
+</head>
+<body>
+    <h1>Hypothesis Testing Resources</h1>
+    <ul>
+        <li><a href="https://www.investopedia.com/terms/h/hypothesistesting.asp">Investopedia - Hypothesis Testing</a></li>
+        <li><a href="https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/">StatisticsHowTo - Hypothesis Testing</a></li>
+        <li><a href="https://www.simplilearn.com/tutorials/statistics-tutorial/hypothesis-testing-in-statistics">Simplilearn - Hypothesis Testing in Statistics</a></li>
+        <li><a href="https://online.stat.psu.edu/statprogram/reviews/statistical-concepts/hypothesis-testing">Penn State Online Statistics - Hypothesis Testing</a></li>
+        <li><a href="https://www.scribbr.com/statistics/hypothesis-testing/">Scribbr - Hypothesis Testing</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Statistical_hypothesis_testing">Wikipedia - Statistical Hypothesis Testing</a></li>
+        <li><a href="https://latrobe.libguides.com/maths/hypothesis-testing">La Trobe University Library - Hypothesis Testing</a></li>
+        <li><a href="https://www.britannica.com/science/statistics/Hypothesis-testing">Encyclopedia Britannica - Hypothesis Testing</a></li>
+    </ul>
+
+    <h1>Null and Alternate Hypothesis</h1>
+    <h2>Video</h2>
+    <ul>
+        <li><a href="https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/idea-significance-tests/v/examples-of-null-and-alternative-hypotheses">Khan Academy - Examples of Null and Alternative Hypotheses</a></li>
+    </ul>
+    
+    <h2>Resources</h2>
+    <ul>
+        <li><a href="https://www.scribbr.com/statistics/null-and-alternative-hypotheses/#:~:text=The%20null%20hypothesis%20of%20a,of%20an%20effect%20or%20relationship.">Scribbr - Null and Alternative Hypotheses</a></li>
+        <li><a href="https://resources.nu.edu/statsresources/hypothesis">National University - Hypothesis Resources</a></li>
+        <li><a href="https://support.minitab.com/en-us/minitab/21/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/null-and-alternative-hypotheses/">Minitab - Null and Alternative Hypotheses Basics</a></li>
+        <li><a href="https://365datascience.com/tutorials/statistics-tutorials/null-hypothesis/">365 Data Science - Null Hypothesis</a></li>
+        <li><a href="https://www.wallstreetmojo.com/null-vs-alternative-hypothesis/">WallStreetMojo - Null vs. Alternative Hypothesis</a></li>
+        <li><a href="https://courses.lumenlearning.com/introstats1/chapter/null-and-alternative-hypotheses/">Lumen Learning - Null and Alternative Hypotheses</a></li>
+        <li><a href="https://articles.outlier.org/null-vs-alternative-hypothesis">Outlier.org - Null vs. Alternative Hypothesis</a></li>
+        <li><a href="https://online.stat.psu.edu/stat100/lesson/10/10.1">Penn State Online - Null Hypothesis</a></li>
+        <li><a href="https://vitalflux.com/null-and-alternate-hypothesis-definition-example/">Vitalflux - Null and Alternate Hypothesis Definition</a></li>
+        <li><a href="https://www.qualitygurus.com/null-and-alternate-hypotheses/">Quality Gurus - Null and Alternate Hypotheses</a></li>
+        <li><a href="https://www.formpl.us/blog/alternative-null-hypothesis">Formplus - Alternative and Null Hypothesis</a></li>
+        <li><a href="https://www.statisticssolutions.com/null-hypothesis-and-alternative-hypothesis/">Statistics Solutions - Null Hypothesis and Alternative Hypothesis</a></li>
+        <li><a href="https://www.isixsigma.com/dmaic-methodology/null-vs-alternative-hypothesis-whats-the-difference/">iSixSigma - Null vs. Alternative Hypothesis</a></li>
+    </ul>
+    
+    <h1>One Sample T-tests</h1>
+    <h2>Video Tutorials</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=zJ8e_wAWUzE">Video 1 - One-Sample T-Test Introduction</a></li>
+        <li><a href="https://www.youtube.com/watch?v=VPd8DOL13Iw">Video 2 - One-Sample T-Test Explained</a></li>
+        <li><a href="https://www.youtube.com/watch?v=HYS0K38v7II">Video 3 - One-Sample T-Test Using Python (Scipy)</a></li>
+    </ul>
+    
+    <h2>One-Sample T-Test Resources</h2>
+    <ul>
+        <li><a href="https://www.jmp.com/en_us/statistics-knowledge-portal/t-test/one-sample-t-test.html">JMP - One-Sample T-Test Guide</a></li>
+        <li><a href="https://www.graphpad.com/quickcalcs/oneSampleT1/">GraphPad - Online One-Sample T-Test Calculator</a></li>
+        <li><a href="https://datatab.net/tutorial/one-sample-t-test">DataTab - One-Sample T-Test Tutorial</a></li>
+        <li><a href="https://libguides.library.kent.edu/SPSS/OneSampletTest">Kent State University - SPSS One-Sample T-Test Guide</a></li>
+        <li><a href="http://psychology.emory.edu/clinical/bliwise/Tutorials/TOM/meanstests/tone.htm">Emory University - One-Sample T-Test Example</a></li>
+        <li><a href="https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/one-sample-t-test/">Statistics Solutions - One-Sample T-Test Overview</a></li>
+        <li><a href="https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php">Laerd Statistics - One-Sample T-Test Using SPSS</a></li>
+        <li><a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/7-t-tests">BMJ - T-Tests in Statistics</a></li>
+        <li><a href="https://sphweb.bumc.bu.edu/otlt/MPH-Modules/PH717-QuantCore/PH717-Module7-T-tests/PH717-Module7-T-tests4.html">Boston University - One-Sample T-Test Module</a></li>
+        <li><a href="https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/one-sample-t-test/">StatisticsHowTo - One-Sample T-Test Explanation</a></li>
+        <li><a href="https://www.statskingdom.com/130MeanT1.html">Stats Kingdom - One-Sample T-Test Example</a></li>
+        <li><a href="https://www.machinelearningplus.com/statistics/one-sample-t-test/">Machine Learning Plus - One-Sample T-Test Tutorial</a></li>
+        <li><a href="https://real-statistics.com/students-t-distribution/one-sample-t-test/">Real Statistics - One-Sample T-Test with Excel</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Student%27s_t-test">Wikipedia - Student's t-test</a></li>
+    </ul>
+    
+    <h2>Python Implementation (scipy.stats.ttest_1samp)</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_1samp.html">scipy.stats.ttest_1samp Documentation</a></li>
+        <li><a href="https://www.geeksforgeeks.org/how-to-conduct-a-one-sample-t-test-in-python/">GeeksforGeeks - One-Sample T-Test in Python</a></li>
+        <li><a href="https://www.statology.org/one-sample-t-test-python/">Statology - One-Sample T-Test in Python</a></li>
+        <li><a href="https://rowannicholls.github.io/python/statistics/hypothesis_testing/one_sample_t_test.html">Rowan Nicholls - Python One-Sample T-Test Example</a></li>
+        <li><a href="https://www.einblick.ai/python-code-examples/one-sample-t-test/">Einblick AI - Python One-Sample T-Test Code Example</a></li>
+        <li><a href="https://www.reneshbedre.com/blog/ttest.html">Renesh Bedre - One-Sample T-Test with Python</a></li>
+        <li><a href="https://www.datacamp.com/tutorial/an-introduction-to-python-t-tests">DataCamp - An Introduction to Python T-Tests</a></li>
+        <li><a href="https://www.tutorialspoint.com/how-to-conduct-a-one-sample-t-test-in-python">TutorialsPoint - One-Sample T-Test in Python</a></li>
+        <li><a href="https://builtin.com/data-science/t-test-python">builtin - T-Test in Python</a></li>
+        <li><a href="https://neuraldatascience.io/5-eda/ttests.html">Neural Data Science - T-Tests in Python</a></li>
+        <li><a href="https://mattchoward.com/one-sample-t-test-in-python/">Matt C. Howard - One-Sample T-Test in Python</a></li>
+        <li><a href="https://www.askpython.com/python/examples/t-test-hypothesis">AskPython - T-Test Hypothesis in Python</a></li>
+    </ul>
+    
+    <h2>Two Sample T-tests</h2>
+    <h2>Video Tutorials</h2>
+    <ul>
+        <li><a href="https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/v/two-sample-t-test-for-difference-of-means">Khan Academy - Two-Sample T-Test for Difference of Means</a></li>
+        <li><a href="https://www.youtube.com/watch?v=mBiVCrW2vSU">Video 2 - Two-Sample T-Test Explained</a></li>
+        <li><a href="https://www.youtube.com/watch?v=8aaIdXENNJI">Video 3 - Two-Sample T-Test in Python</a></li>
+        <li><a href="https://www.youtube.com/watch?v=YsdPFr8l2ac">Video 4 - Two-Sample T-Test in Python (GeeksforGeeks)</a></li>
+    </ul>
+    
+    <h2>Two-Sample T-Test Resources</h2>
+    <ul>
+        <li><a href="https://www.jmp.com/en_us/statistics-knowledge-portal/t-test/two-sample-t-test.html">JMP - Two-Sample T-Test Guide</a></li>
+        <li><a href="https://www.itl.nist.gov/div898/handbook/eda/section3/eda353.htm">NIST - Two-Sample T-Test Handbook</a></li>
+        <li><a href="https://www.statology.org/two-sample-t-test/">Statology - Two-Sample T-Test Tutorial</a></li>
+        <li><a href="https://www.graphpad.com/quickcalcs/ttest1/">GraphPad - Online Two-Sample T-Test Calculator</a></li>
+        <li><a href="https://www.westga.edu/academics/research/vrc/assets/docs/TwoSampleProblems_LectureNotes.pdf">University of West Georgia - Two-Sample T-Test Lecture Notes</a></li>
+        <li><a href="https://www.statskingdom.com/140MeanT2eq.html">Stats Kingdom - Two-Sample T-Test Example</a></li>
+        <li><a href="https://sixsigmastudyguide.com/one-and-two-sample-t-tests/">Six Sigma Study Guide - One and Two-Sample T-Tests</a></li>
+        <li><a href="https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/paired-sample-t-test/">Statistics Solutions - Paired Sample T-Test Guide</a></li>
+        <li><a href="https://vitalflux.com/two-sample-t-test-formula-examples/">Vitalflux - Two-Sample T-Test Formula and Examples</a></li>
+        <li><a href="https://www.investopedia.com/terms/t/t-test.asp">Investopedia - T-Test Explanation</a></li>
+        <li><a href="https://www.xlstat.com/en/solutions/features/two-sample-t-and-z-tests">XLSTAT - Two-Sample T-Test with XLSTAT</a></li>
+        <li><a href="https://select-statistics.co.uk/calculators/two-sample-t-test-calculator/">Select Statistics - Two-Sample T-Test Calculator</a></li>
+        <li><a href="https://sites.utexas.edu/sos/guided/inferential/numeric/onecat/2-groups/independent/two-sample-t/">University of Texas - Two-Sample T-Test Guide</a></li>
+    </ul>
+    
+    <h2>Python Implementation (scipy.stats.ttest_ind)</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html">scipy.stats.ttest_ind Documentation</a></li>
+        <li><a href="https://www.geeksforgeeks.org/how-to-conduct-a-two-sample-t-test-in-python/">GeeksforGeeks - Two-Sample T-Test in Python</a></li>
+        <li><a href="https://www.statology.org/two-sample-t-test-python/">Statology - Two-Sample T-Test in Python</a></li>
+        <li><a href="https://www.einblick.ai/python-code-examples/t-test-python/">Einblick AI - Python Two-Sample T-Test Code Example</a></li>
+        <li><a href="https://rowannicholls.github.io/python/statistics/hypothesis_testing/unpaired_two_sample_t_test.html">Rowan Nicholls - Python Two-Sample T-Test Example</a></li>
+        <li><a href="https://medium.com/@24littledino/paired-t-test-in-python-bbe778ce247e">Medium - Python Paired T-Test Example</a></li>
+        <li><a href="https://www.educative.io/answers/how-to-implement-the-t-test-for-independent-samples-in-python">Educative.io - T-Test for Independent Samples in Python</a></li>
+        <li><a href="https://funwithdatascience.medium.com/t-test-one-sample-two-sample-and-paired-t-test-using-python-e19d31ed1d5">Medium - T-Test Using Python</a></li>
+        <li><a href="https://www.pythonfordatascience.org/independent-samples-t-test-python/">Python for Data Science - Independent Samples T-Test in Python</a></li>
+    </ul>
+    
+    <h2>ANOVA (Analysis of Variance)</h2>
+    <h2>Video Tutorials</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=oOuu8IBd-yo">Video 1 - ANOVA Introduction</a></li>
+        <li><a href="https://www.youtube.com/watch?v=0NwA9xxxtHw">Video 2 - ANOVA Explained</a></li>
+    </ul>
+    
+    <h2>ANOVA Resources</h2>
+    <ul>
+        <li><a href="https://www.tibco.com/reference-center/what-is-analysis-of-variance-anova#:~:text=Analysis%20of%20Variance%20(ANOVA)%20is,the%20means%20of%20different%20groups.">TIBCO - What is Analysis of Variance (ANOVA)?</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Analysis_of_variance">Wikipedia - Analysis of Variance (ANOVA)</a></li>
+        <li><a href="https://anovaculinary.com/">Anova Culinary - Anova Products</a></li>
+        <li><a href="https://www.investopedia.com/terms/a/anova.asp">Investopedia - ANOVA Explanation</a></li>
+        <li><a href="https://www.qualtrics.com/experience-management/research/anova/">Qualtrics - ANOVA Guide</a></li>
+        <li><a href="https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/">Analytics Vidhya - ANOVA Analysis</a></li>
+        <li><a href="https://www.statisticsshowto.com/probability-and-statistics/hypothesis-testing/anova/">StatisticsHowTo - ANOVA Hypothesis Testing</a></li>
+        <li><a href="https://www.simplypsychology.org/anova.html">Simply Psychology - ANOVA Overview</a></li>
+        <li><a href="https://www.wallstreetmojo.com/anova/">WallStreetMojo - ANOVA in Finance</a></li>
+    </ul>
+    
+    <h2>Python Implementation (scipy.stats.f_oneway)</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html">scipy.stats.f_oneway Documentation</a></li>
+        <li><a href="https://www.geeksforgeeks.org/how-to-perform-a-one-way-anova-in-python/">GeeksforGeeks - One-Way ANOVA in Python</a></li>
+        <li><a href="https://www.reneshbedre.com/blog/anova.html">Renesh Bedre - ANOVA in Python</a></li>
+        <li><a href="https://www.pythonfordatascience.org/anova-python/">Python for Data Science - ANOVA in Python</a></li>
+        <li><a href="https://medium.com/@isguzarsezgin/anova-analysis-of-variance-test-explanation-and-an-example-python-af801c64d414">Medium - ANOVA Analysis in Python</a></li>
+        <li><a href="https://www.javatpoint.com/anova-test-in-python">JavaTpoint - ANOVA Test in Python</a></li>
+        <li><a href="https://www.kaggle.com/code/hamelg/python-for-data-26-anova">Kaggle - ANOVA in Python</a></li>
+        <li><a href="https://www.marsja.se/four-ways-to-conduct-one-way-anovas-using-python/">Marsja.se - One-Way ANOVAs in Python</a></li>
+        <li><a href="https://analyticsindiamag.com/a-complete-python-guide-to-anova/">Analytics India Magazine - Complete Python Guide to ANOVA</a></li>
+        <li><a href="https://www.statology.org/welchs-anova-in-python/">Statology - Welch's ANOVA in Python</a></li>
+        <li><a href="https://raphaelvallat.com/pingouin.html">Pingouin - ANOVA with Pingouin</a></li>
+        <li><a href="https://stackoverflow.com/questions/25537399/anova-in-python-using-pandas-dataframe-with-statsmodels-or-scipy">Stack Overflow - ANOVA in Python with Pandas</a></li>
+        <li><a href="https://campus.datacamp.com/courses/experimental-design-in-python/design-considerations-in-experimental-design?ex=8">DataCamp - ANOVA in Experimental Design</a></li>
+        <li><a href="https://plotly.com/python/v3/anova/">Plotly - ANOVA with Plotly</a></li>
+        <li><a href="https://www.statology.org/three-way-anova-python/">Statology - Three-Way ANOVA in Python</a></li>
+        <li><a href="https://www.askpython.com/python/examples/anova-test-in-python">AskPython - ANOVA Test in Python</a></li>
+        <li><a href="https://www.projectpro.io/recipes/perform-anova-python">ProjectPro - Perform ANOVA in Python</a></li>
+        <li><a href="https://heds.nz/posts/anova-python/">HEDS - ANOVA in Python</a></li>
+    </ul>
+
+</body>
+</html>
+
+
+
+
+
+

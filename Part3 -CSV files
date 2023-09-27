@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Part3 -CSV files</title>
+</head>
+<body>
+    <h1><strong>Part3 -CSV files</strong></h1>
+
+    <h2>Pandas Read CSV</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html">Pandas Documentation - read_csv</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-read-csv-using-pandas-read_csv/">GeeksforGeeks - Python Read CSV using pandas read_csv()</a></li>
+        <li><a href="https://www.w3schools.com/python/pandas/pandas_csv.asp">W3Schools - Python Pandas - CSV</a></li>
+        <li><a href="https://pythonbasics.org/read-csv-with-pandas/">Python Basics - Read CSV with pandas</a></li>
+      </ul>     
+    <h2>Pandas Write CSV</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html">Pandas Documentation - to_csv</a></li>
+        <li><a href="https://www.digitalocean.com/community/tutorials/pandas-to_csv-convert-dataframe-to-csv">DigitalOcean - pandas to_csv - Convert DataFrame to CSV</a></li>
+        <li><a href="https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file">StackOverflow - Writing a pandas DataFrame to CSV file</a></li>
+        <li><a href="https://www.geeksforgeeks.org/saving-a-pandas-dataframe-as-a-csv/">GeeksforGeeks - Saving a Pandas DataFrame as a CSV</a></li>
+        <li><a href="https://www.w3resource.com/pandas/dataframe/dataframe-to_csv.php">W3Resource - Pandas DataFrame - to_csv()</a></li>
+      </ul>
+      
+</body>
+</html>

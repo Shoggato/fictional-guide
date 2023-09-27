@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HVPlot and HoloViews Resources</title>
+</head>
+<body>
+    <h1>HVPlot and HoloViews Resources</h1>
+    <h2>HVPlot Documentation and User Guides</h2>
+    <ul>
+        <li><a href="https://hvplot.holoviz.org/reference/geopandas/points.html">HVPlot Geopandas Points</a></li>
+        <li><a href="https://hvplot.holoviz.org/user_guide/Geographic_Data.html">HVPlot User Guide: Geographic Data</a></li>
+        <li><a href="https://hvplot.holoviz.org/user_guide/Plotting.html">HVPlot User Guide: Plotting</a></li>
+    </ul>
+    <h2>HoloViews Documentation</h2>
+    <ul>
+        <li><a href="https://holoviews.org/reference/elements/matplotlib/Points.html">HoloViews Points Element</a></li>
+    </ul>
+    <h2>Stack Overflow Questions</h2>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/70994916/hvplot-points-with-geo-true-does-not-show-the-map">HVPlot Points with Geo=True Not Showing the Map</a></li>
+        <li><a href="https://stackoverflow.com/questions/56501827/hvplot-how-to-colour-point-data-by-categorical-variable-and-aggregate-with-ds">HVPlot: Color Point Data by Categorical Variable and Aggregate</a></li>
+        <li><a href="https://stackoverflow.com/questions/67005004/how-can-i-overlay-text-labels-on-a-geographic-hvplot-points-plot">Overlay Text Labels on a Geographic HVPlot Points Plot</a></li>
+        <li><a href="https://stackoverflow.com/questions/57018222/how-do-i-plot-points-with-a-size-corresponding-to-some-index-in-hvplots">Plot Points with Size Corresponding to an Index in HVPlot</a></li>
+        <li><a href="https://stackoverflow.com/questions/59678780/show-extra-columns-when-hovering-in-a-scatter-plot-with-hvplot">Show Extra Columns When Hovering in a Scatter Plot with HVPlot</a></li>
+    </ul>
+    <h2>Additional Resources</h2>
+    <ul>
+        <li><a href="https://sites.google.com/view/raybellwaves/cheat-sheets/hvplotholoviewsgeoviews">HVPlot Cheat Sheet</a></li>
+        <li><a href="https://github.com/holoviz/hvplot/blob/main/hvplot/plotting/core.py">HVPlot Source Code</a></li>
+        <li><a href="https://oceanhackweek.org/ohw22/tutorials/02-Wed/01-data-visualization-in-python/tutorial/05_Composing_Plots.html">Composing Plots with HVPlot</a></li>
+        <li><a href="https://hvplot.holoviz.org/user_guide/Customization.html">HVPlot User Guide: Customization</a></li>
+        <li><a href="https://developer.nvidia.com/blog/accelerated-data-analytics-a-guide-to-data-visualization-with-rapids/">NVIDIA Blog: Data Visualization with Rapids</a></li>
+        <li><a href="https://indico.cern.ch/event/833895/contributions/3577846/attachments/1928191/3205023/PyHEP2019_slides.pdf">PyHEP2019 Slides</a></li>
+        <li><a href="https://towardsdatascience.com/plotting-heat-maps-in-python-using-bokeh-folium-and-hvplot-eb7c7f49dbc6">Plotting Heat Maps in Python Using Bokeh, Folium, and HVPlot</a></li>
+        <li><a href="https://colab.research.google.com/github/holoviz-community/HoloViz_KDD2022/blob/main/02_Plotting.ipynb">HoloViz KDD 2022 Colab Notebook</a></li>
+        <li><a href="https://docs.rapids.ai/visualization">RAPIDS Visualization Documentation</a></li>
+    </ul>
+    <h2>Related Topics</h2>
+    <ul>
+        <li><a href="https://discourse.holoviz.org/t/add-an-extra-field-when-hovering-in-hvplot-scatter/2331">Add an Extra Field When Hovering in HVPlot Scatter</a></li>
+    </ul>
+</body>
+</html>

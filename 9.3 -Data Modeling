@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>9.3 -Data Modeling</title>
+</head>
+<body>
+    <h1>9.3 -Data Modeling</h1>
+    <p><strong>Overview</strong></p><br>
+    <p>Today's lesson will focus on data modeling and the best practices for designing a database. 
+        First, you’ll learn how to normalize data and how the tables in a database are related. 
+        Later in the lesson, you’ll learn how to create visualizations of databases by using ERDs.</p><br>
+    <p><strong>What You'll Learn</strong></p><br>
+    <p>By the end of this lesson, you will be able to:</p><br>
+    <ul>
+        <li>Apply data modeling techniques to database design.</li>
+        <li>Normalize data.</li>
+        <li>Identify data relationships.</li>
+        <li>Create visual representations of a database by using ERDs.</li>
+    </ul>
+    <p>Table of Contents:</p>
+    <a href="Part1 -Entity Relationship Diagrams (ERD)">Go to Part1</a><br>
+</body>
+</html>

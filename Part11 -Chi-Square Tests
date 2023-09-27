@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi-Square Tests Resources</title>
+</head>
+<body>
+    <h1>Chi-Square Tests Resources</h1>
+    
+    <h2>Introduction to Chi-Square Tests</h2>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Chi-squared_test">Wikipedia - Chi-Square Test</a></li>
+        <li><a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/8-chi-squared-tests">BMJ - Chi-Squared Tests</a></li>
+        <li><a href="https://www.simplilearn.com/tutorials/statistics-tutorial/chi-square-test">Simplilearn - Chi-Square Test Tutorial</a></li>
+    </ul>
+    
+    <h2>Chi-Square Test Videos</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=rpKzq64GA9Y">Video 1 - Chi-Square Test Overview</a></li>
+        <li><a href="https://www.youtube.com/watch?v=7_cs1YlZoug">Video 2 - Chi-Square Test Example</a></li>
+        <li><a href="https://www.youtube.com/watch?v=QE0v3HHcKbs">Video 3 - Chi-Square Test Explanation</a></li>
+        <li><a href="https://www.youtube.com/watch?v=w5iKu1IrTJQ">Video 4 - Chi-Square Test Tutorial</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-pearsons-chi-square-test/">GeeksforGeeks - Python Pearson's Chi-Square Test</a></li>
+    </ul>
+    
+    <h2>Python Implementation</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chisquare.html">scipy.stats.chisquare</a></li>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html">scipy.stats.chi2_contingency</a></li>
+        <li><a href="https://www.kaggle.com/code/hamelg/python-for-data-25-chi-squared-tests">Kaggle - Python for Data - Chi-Squared Tests</a></li>
+        <li><a href="https://www.tutorialspoint.com/how-to-perform-a-chi-square-goodness-of-fit-test-in-python">TutorialsPoint - Chi-Square Goodness of Fit Test in Python</a></li>
+    </ul>
+    
+    <h2>Degrees of Freedom</h2>
+    <ul>
+        <li><a href="https://python.plainenglish.io/what-are-degrees-of-freedom-1f5a3987bc00">What Are Degrees of Freedom?</a></li>
+        <li><a href="https://machinelearningmastery.com/degrees-of-freedom-in-machine-learning/">Degrees of Freedom in Machine Learning</a></li>
+        <li><a href="https://medium.com/@vinaychaudhari1996/what-is-the-degree-of-freedom-understand-it-with-python-example-1b46b4891e9e">Understanding Degrees of Freedom with Python Example</a></li>
+    </ul>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matplotlib Functions</title>
+</head>
+<body>
+    <h1>Matplotlib Functions</h1>
+    
+    <h2>Plot Legends:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html">plt.legend()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/matplotlib-pyplot-legend-in-python/">GeeksforGeeks - Customizing Legends with plt.legend()</a></li>
+    </ul>
+
+    <h2>Display and Save Plots:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.show.html">plt.show()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.savefig.html">plt.savefig()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/matplotlib-pyplot-savefig-in-python/">GeeksforGeeks - Saving Plots with plt.savefig()</a></li>
+    </ul>
+
+    <h2>Grid and Labels:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.grid.html">plt.grid()</a></li>
+        <li><a href="https://www.w3schools.com/python/matplotlib_grid.asp">W3Schools - Adding a Grid with plt.grid()</a></li>
+        <li><a href="https://stackoverflow.com/questions/8209568/how-do-i-draw-a-grid-onto-a-plot-in-python">Stack Overflow - Drawing a Grid in Matplotlib</a></li>
+        <li><a href="https://www.statology.org/matplotlib-show-grid/">Statology - Showing Grid Lines with plt.grid()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xlabel.html">plt.xlabel()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ylabel.html">plt.ylabel()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.title.html">plt.title()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xlim.html">plt.xlim()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ylim.html">plt.ylim()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xticks.html">plt.xticks()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.yticks.html">plt.yticks()</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>4.2 -Exploring Pandas</title>
+</head>
+<body>
+    <h1>4.2 -Exploring Pandas</h1>
+    <p><strong>Overview</strong></p>
+    <p>Today's lesson takes a deep dive into Pandas and covers some of the library's more complex functions. 
+        It begins with an overview of one of the most powerful aspects of Pandas: collecting specific rows and columns of data from a DataFrame using the loc[] and iloc[] methods.
+         You’ll also get practical experience with using Pandas to clean data. 
+        Later in the class, you’ll be introduced to the.groupby() method, a time-effective approach for performing analytical computations with Pandas.</p><br>
+    <p><strong>What You'll Learn</strong></p><br>
+    <p>By the end of this lesson, you will be able to:</p><br>
+    <ul>
+        <li>Navigate through DataFrames with loc and iloc.</li>
+        <li>Filter and slice Pandas DataFrames.</li>
+        <li>Create and access Pandas groupby objects.</li>
+        <li>Sort DataFrames.</li>
+    </ul>
+    <p>Table of Contents:</p>
+    <a href="Part1 -Loc/iLoc methods">Go to Part1</a><br>
+    <a href="Part2 -DataFrames">Go to Part2</a><br>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL Basics Resources</title>
+</head>
+<body>
+    <h1>SQL Basics Resources</h1>
+
+    <h2>Basic SQL Commands</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/sql/sql_syntax.asp">SQL Syntax (W3Schools)</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_select.asp">SQL SELECT Statement (W3Schools)</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_where.asp">SQL WHERE Clause (W3Schools)</a></li>
+        <li><a href="https://www.freecodecamp.org/news/basic-sql-commands/">Basic SQL Commands (freeCodeCamp)</a></li>
+        <li><a href="https://blog.hubspot.com/marketing/sql-tutorial-introduction">SQL Tutorial Introduction (HubSpot)</a></li>
+        <li><a href="https://learnsql.com/blog/what-are-basic-sql-queries/">What Are Basic SQL Queries? (LearnSQL.com)</a></li>
+        <li><a href="https://lgatto.github.io/sql-ecology/01-sql-basic-queries.html">SQL Basic Queries (lgatto.github.io)</a></li>
+        <li><a href="https://www.codecademy.com/article/sql-commands">SQL Commands (Codecademy)</a></li>
+        <li><a href="https://www.sqlshack.com/learn-to-write-basic-sql-queries/">Learn to Write Basic SQL Queries (SQLShack)</a></li>
+        <li><a href="https://www.geeksforgeeks.org/sql-concepts-and-queries/">SQL Concepts and Queries (GeeksforGeeks)</a></li>
+        <li><a href="https://www.makeuseof.com/tag/important-sql-commands-programmer-know/">Important SQL Commands (MakeUseOf)</a></li>
+    </ul>
+
+    <h2>PostgreSQL Specific</h2>
+    <ul>
+        <li><a href="https://www.postgresql.org/docs/current/sql-select.html">SELECT Command (PostgreSQL)</a></li>
+        <li><a href="https://www.techonthenet.com/postgresql/from.php">FROM Clause (PostgreSQL)</a></li>
+        <li><a href="https://www.postgresql.org/docs/current/queries-select-lists.html">SELECT Lists (PostgreSQL)</a></li>
+        <li><a href="https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-where/">WHERE Clause (PostgreSQL)</a></li>
+    </ul>
+
+    <h2>INSERT Records into Table</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=Dry5n2DWgAI">Video: INSERT Records into Table</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_insert.asp">SQL INSERT Statement (W3Schools)</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_insert_into_select.asp">INSERT INTO SELECT (W3Schools)</a></li>
+        <li><a href="https://www.tutorialspoint.com/sql/sql-insert-query.htm">SQL INSERT Query (Tutorialspoint)</a></li>
+        <li><a href="https://www.postgresql.org/docs/current/sql-insert.html">INSERT Statement (PostgreSQL)</a></li>
+        <li><a href="https://www.postgresql.org/docs/current/dml-insert.html">INSERT Data Manipulation Language (PostgreSQL)</a></li>
+        <li><a href="https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-insert/">INSERT in PostgreSQL (PostgreSQLTutorial.com)</a></li>
+        <li><a href="https://www.tutorialspoint.com/postgresql/postgresql_insert_query.htm">INSERT Query in PostgreSQL (Tutorialspoint)</a></li>
+        <li><a href="https://www.techonthenet.com/postgresql/insert.php">INSERT Statement in PostgreSQL (TechOnTheNet)</a></li>
+        <li><a href="https://www.oreilly.com/library/view/practical-postgresql/9781449309770/ch04s03.html">INSERT into PostgreSQL (O'Reilly)</a></li>
+        <li><a href="https://www.tutorialsteacher.com/postgresql/insert-into-table">INSERT INTO TABLE (Tutorialsteacher)</a></li>
+        <li><a href="https://popsql.com/learn-sql/postgresql/how-to-insert-in-postgresql">How to INSERT in PostgreSQL (PopSQL)</a></li>
+        <li><a href="https://www.makeuseof.com/tag/important-sql-commands-programmer-know/">Important SQL Commands (MakeUseOf)</a></li>
+    </ul>
+
+    <h2>DELETE Records</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=r3CZhZz3Nus">Video: DELETE Records</a></li>
+        <li><a href="https://www.youtube.com/watch?v=XesWUC6_TO4">Video: DELETE Records (2nd Video)</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_delete.asp">SQL DELETE Statement (W3Schools)</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_ref_delete.asp">SQL DELETE Reference (W3Schools)</a></li>
+        <li><a href="https://www.tutorialspoint.com/sql/sql-delete-query.htm">SQL DELETE Query (Tutorialspoint)</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/sql/t-sql/statements/delete-transact-sql?view=sql-server-ver16">DELETE in SQL Server (Microsoft Docs)</a></li>
+        <li><a href="https://www.geeksforgeeks.org/sql-delete-statement/">SQL DELETE Statement (GeeksforGeeks)</a></li>
+        <li><a href="https://www.zentut.com/sql-tutorial/sql-delete/">SQL DELETE Tutorial (Zentut)</a></li>
+    </ul>
+
+    <h2>Unique Values and Primary Keys</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/sql/sql_distinct.asp">SQL DISTINCT (W3Schools)</a></li>
+        <li><a href="https://www.w3schools.com/sql/sql_ref_select_distinct.asp">SQL SELECT DISTINCT (W3Schools)</a></li>
+        <li><a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-distinct/">SQL Server SELECT DISTINCT (SQL Server Tutorial)</a></li>
+        <li><a href="https://www.databasestar.com/sql-distinct/">SQL DISTINCT (Database Star)</a></li>
+    </ul>
+</body>
+</html>

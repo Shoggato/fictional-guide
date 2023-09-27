@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python ValueError Exception</title>
+</head>
+<body>
+    <h1>Python ValueError Exception</h1>
+    
+    <h2>Python Exception Documentation:</h2>
+    <ul>
+        <li><a href="https://docs.python.org/3/library/exceptions.html">Python Exception Documentation</a></li>
+        <li><a href="https://docs.python.org/3/tutorial/errors.html">Python Tutorial - Errors and Exceptions</a></li>
+    </ul>
+    
+    <h2>ValueError Exception Handling:</h2>
+    <ul>
+        <li><a href="https://rollbar.com/blog/python-valueerror/">Rollbar - Understanding Python ValueError</a></li>
+        <li><a href="https://www.digitalocean.com/community/tutorials/python-valueerror-exception-handling-examples">DigitalOcean - Python ValueError Exception Handling</a></li>
+        <li><a href="https://www.turing.com/kb/valueerror-in-python-and-how-to-fix">Turing - ValueError in Python and How to Fix It</a></li>
+    </ul>
+    
+    <h2>Specific "ValueError" Instances:</h2>
+    <ul>
+        <li><a href="https://codedamn.com/news/programming/fix-valueerror">codedamn - How to Fix "ValueError: could not convert string to float"</a></li>
+        <li><a href="https://stackoverflow.com/questions/8420143/valueerror-could-not-convert-string-to-float-id">Stack Overflow - "ValueError: could not convert string to float" Discussion</a></li>
+    </ul>
+</body>
+</html>

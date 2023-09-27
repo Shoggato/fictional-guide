@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pandas Data Plotting and Matplotlib Attributes</title>
+</head>
+<body>
+    <h1>Pandas Data Plotting and Matplotlib Attributes</h1>
+    
+    <h2>Pandas DataFrame Plot Function:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html">Pandas DataFrame Plot Function Attributes</a></li>
+    </ul>
+    
+    <h2>Matplotlib Figure:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/figure_api.html">Matplotlib Figure API</a></li>
+    </ul>
+    
+    <h2>Matplotlib figsize:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html">Matplotlib plt.figure() Documentation</a></li>
+    </ul>
+    
+    <h2>Matplotlib set_xticklabels:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/2.0.1/api/_as_gen/matplotlib.axes.Axes.set_xticklabels.html">Matplotlib Axes.set_xticklabels() Documentation (2.0.1)</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xticklabels.html">Matplotlib Axes.set_xticklabels() Documentation (Stable)</a></li>
+        <li><a href="https://www.geeksforgeeks.org/how-to-rotate-x-axis-tick-label-text-in-matplotlib/">GeeksforGeeks - How to Rotate X-Axis Tick Label Text in Matplotlib</a></li>
+    </ul>
+    
+    <h2>Matplotlib facecolor:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/gallery/color/color_demo.html#sphx-glr-gallery-color-color-demo-py">Matplotlib Color Demo</a></li>
+    </ul>
+    
+    <h2>Matplotlib title:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_title.html">Matplotlib Axes.set_title() Documentation</a></li>
+    </ul>
+    
+    <h2>Matplotlib xlabel:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xlabel.html">Matplotlib Axes.set_xlabel() Documentation</a></li>
+    </ul>
+    
+    <h2>Matplotlib ylabel:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_ylabel.html">Matplotlib Axes.set_ylabel() Documentation</a></li>
+    </ul>
+    
+    <h2>Matplotlib legend:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/legend_api.html">Matplotlib Legend API</a></li>
+    </ul>
+    
+    <h2>Matplotlib tight_layout:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tight_layout.html">Matplotlib plt.tight_layout() Documentation</a></li>
+    </ul>
+</body>
+</html>

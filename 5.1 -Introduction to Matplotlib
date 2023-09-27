@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5.1 -Introduction to Matplotlib</title>
+</head>
+<body>
+    <h1>Introduction to Matplotlib</h1>
+    <p><strong>Overview</strong></p><br>
+    <p>In this lesson, you’ll learn the basics of Matplotlib one of the most popular Python plotting libraries in use today. 
+        This lesson focuses on how to import the Matplotlib library and use its core PyPlot module to design and customize line, bar, and pie charts as well as scatter plots.</p><br>
+    <p><strong>What You'll Learn</strong></p><br>
+    <p>By the end of this lesson, you will be able to:</p><br>
+    <ul>
+        <li>Navigate Matplotlib's PyPlot interface.</li>
+        <li>Create line charts, bar charts, pie charts, and scatter plots with Matplotlib.</li>
+        <li>Change the appearance of plots in Matplotlib.</li>
+        <li>Identify basic plot configuration options, such as xlim and ylim, with Matplotlib.</li>
+    </ul>
+    <p>Table of Contents:</p>
+    <a href="Part1 - Pyplot">Go to Part1</a><br>
+    <a href="Part2 - Matplotlib">Go to Part2</a><br>
+</body>
+</html>

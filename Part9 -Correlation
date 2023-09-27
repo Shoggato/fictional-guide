@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Correlation and Pearson's Coefficient Resources</title>
+</head>
+<body>
+    <h1>Correlation and Pearson's Coefficient Resources</h1>
+    
+    <h2>Correlation:</h2>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Correlation">Wikipedia - Correlation</a> (Remember "Correlation is NOT causation!")</li>
+        <li><a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regression">BMJ - Correlation and Regression</a></li>
+        <li><a href="https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-correlation.html">JMP - What is Correlation?</a></li>
+        <li><a href="https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/">StatisticsHowTo - Correlation Coefficient Formula</a></li>
+        <li><a href="https://www.mathsisfun.com/data/correlation.html">Math Is Fun - Correlation</a></li>
+        <li><a href="https://www.investopedia.com/terms/c/correlation.asp">Investopedia - Correlation</a></li>
+        <li><a href="https://www.youtube.com/watch?v=dsyTQNUvqH0">YouTube - Correlation Explained</a></li>
+    </ul>
+
+    <h2>Pearson's Correlation Coefficient:</h2>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Wikipedia - Pearson Correlation Coefficient</a></li>
+        <li><a href="https://www.socscistatistics.com/tests/pearson/">Social Science Statistics - Pearson Correlation Coefficient</a></li>
+        <li><a href="https://www.youtube.com/watch?v=xZ_z8KWkhXE">YouTube - Pearson Correlation Coefficient</a></li>
+        <li><a href="https://www.scribbr.com/statistics/pearson-correlation-coefficient/">Scribbr - Pearson Correlation Coefficient</a></li>
+        <li><a href="https://towardsdatascience.com/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8">Towards Data Science - Pearson vs. Spearman Correlation Coefficient</a></li>
+        <li><a href="https://statistics.laerd.com/statistical-guides/pearson-correlation-coefficient-statistical-guide.php">Laerd Statistics - Pearson Correlation Coefficient</a></li>
+        <li><a href="https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/pearsons-correlation-coefficient/">Statistics Solutions - Pearson's Correlation Coefficient</a></li>
+        <li><a href="https://www.sciencedirect.com/topics/computer-science/pearson-correlation#:~:text=The%20Pearson%20correlation%20measures%20the,meaning%20a%20total%20positive%20correlation.">ScienceDirect - Pearson Correlation</a></li>
+    </ul>
+
+    <h2>Python Syntax:</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html">scipy.stats.pearsonr Documentation</a></li>
+        <li><a href="http://library.isr.ist.utl.pt/docs/scipy/generated/scipy.stats.pearsonr.html">Library.isr.ist.utl.pt - scipy.stats.pearsonr</a></li>
+        <li><a href="https://www.nickmccullum.com/python-correlation-statistics/">Nick McCullum - Python Correlation Statistics</a></li>
+        <li><a href="https://linuxhint.com/scipy-stats-pearsonr/">LinuxHint - scipy.stats.pearsonr Example</a></li>
+        <li><a href="https://realpython.com/numpy-scipy-pandas-correlation-python/">Real Python - Correlation in Python</a></li>
+        <li><a href="https://www.programcreek.com/python/example/55220/scipy.stats.pearsonr">ProgramCreek - scipy.stats.pearsonr Example</a></li>
+        <li><a href="https://stackoverflow.com/questions/3949226/calculating-pearson-correlation-and-significance-in-python">Stack Overflow - Calculating Pearson Correlation in Python</a></li>
+    </ul>
+
+    <h2>Other Functions:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html">Pandas DataFrame.corr() Documentation</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-pandas-dataframe-corr/">GeeksforGeeks - Pandas DataFrame.corr()</a></li>
+        <li><a href="https://www.w3schools.com/python/pandas/ref_df_corr.asp">W3Schools - Pandas DataFrame.corr()</a></li>
+        <li><a href="https://data36.com/correlation-definition-calculation-corr-pandas/">Data36 - Pandas DataFrame.corr() Method</a></li>
+        <li><a href="https://www.studytonight.com/pandas/pandas-dataframe-corr-method">StudyTonight - Pandas DataFrame.corr() Method</a></li>
+        <li><a href="https://www.w3schools.com/python/ref_func_round.asp">W3Schools - Python round() Function</a></li>
+        <li><a href="https://www.w3schools.com/python/matplotlib_scatter.asp">W3Schools - Matplotlib scatter() Function</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.annotate.html">Matplotlib Documentation - plt.annotate()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/matplotlib-pyplot-annotate-in-python/">GeeksforGeeks - Matplotlib plt.annotate() in Python</a></li>
+        <li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.09-text-and-annotation.html">Python Data Science Handbook - Text and Annotation in Matplotlib</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.unstack.html">Pandas DataFrame.unstack() Documentation</a></li>
+        <li><a href="https://www.w3resource.com/pandas/dataframe/dataframe-unstack.php">W3Resource - Pandas DataFrame.unstack()</a></li>
+        <li><a href="https://towardsdatascience.com/reshaping-a-dataframe-with-pandas-stack-and-unstack-925dc9ce1289">Towards Data Science - Reshaping a DataFrame with Pandas stack() and unstack()</a></li>
+        <li><a href="https://sparkbyexamples.com/pandas/how-to-use-pandas-unstack-function/">SparkByExamples - How to Use Pandas unstack() Function</a></li>
+        <li><a href="https://www.geeksforgeeks.org/pandas-groupby-unstack/">GeeksforGeeks - Pandas groupby() and unstack()</a></li>
+    </ul>
+</body>
+</html>

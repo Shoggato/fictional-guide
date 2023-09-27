@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pandas DataFrame loc vs. iloc</title>
+</head>
+<body>
+    <h1>Resources on Pandas DataFrame loc and iloc</h1>
+    
+    <h2>Documentation:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html">pandas.DataFrame.iloc() Documentation</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html">pandas.DataFrame.loc() Documentation</a></li>
+    </ul>
+    
+    <h2>Tutorials and Examples:</h2>
+    <ul>
+        <li><a href="https://www.geeksforgeeks.org/python-pandas-dataframe-loc/">GeeksforGeeks - Python Pandas DataFrame loc()</a></li>
+        <li><a href="https://sparkbyexamples.com/pandas/pandas-dataframe-loc/">SparkByExamples - Pandas DataFrame loc()</a></li>
+        <li><a href="https://www.w3schools.com/python/pandas/ref_df_loc.asp">W3Schools - pandas.DataFrame.loc()</a></li>
+    </ul>
+    
+    <h2>Comparison/Differences:</h2>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different">Stack Overflow - How are iloc and loc different?</a></li>
+        <li><a href="https://builtin.com/software-engineering-perspectives/pandas-iloc#:~:text=Loc%20and%20iloc%20are%20two,is%20used%20for%20integer%20indexing.">BuiltIn - Pandas iloc vs. loc</a></li>
+        <li><a href="https://www.statology.org/pandas-loc-vs-iloc/">Statology - Pandas loc vs. iloc</a></li>
+        <li><a href="https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79">Towards Data Science - How to Use loc and iloc in Pandas</a></li>
+    </ul>
+</body>
+</html>

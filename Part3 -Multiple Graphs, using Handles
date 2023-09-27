@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matplotlib and Pandas Resources</title>
+</head>
+<body>
+    <h1>Matplotlib and Pandas Resources</h1>
+    
+    <h2>Matplotlib Multiple Figures:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/gallery/subplots_axes_and_figures/multiple_figs_demo.html">Multiple Figures Demo</a></li>
+        <li><a href="https://stackoverflow.com/questions/50834216/how-to-handle-multi-figures-with-matplotlib-in-a-for-loop">Stack Overflow - Handling Multiple Figures with Matplotlib</a></li>
+    </ul>
+
+    <h2>Pandas Plotting:</h2>
+    <ul>
+        <li><a href="https://pandas.pydata.org/docs/getting_started/intro_tutorials/04_plotting.html">Pandas Documentation - Plotting</a></li>
+    </ul>
+
+    <h2>Customizing Legends in Matplotlib:</h2>
+    <ul>
+        <li><a href="https://www.tutorialspoint.com/drawing-multiple-legends-on-the-same-axes-in-matplotlib">TutorialsPoint - Drawing Multiple Legends in Matplotlib</a></li>
+        <li><a href="https://towardsdatascience.com/8-visualizations-with-python-to-handle-multiple-time-series-data-19b5b2e66dd0">Towards Data Science - Visualizations with Multiple Time Series Data</a></li>
+        <li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.06-customizing-legends.html">Python Data Science Handbook - Customizing Legends</a></li>
+        <li><a href="http://omz-software.com/pythonista/matplotlib/users/legend_guide.html">Matplotlib User's Guide - Legend Guide</a></li>
+    </ul>
+
+    <h2>Advanced Plotting:</h2>
+    <ul>
+        <li><a href="https://python4astronomers.github.io/plotting/advanced.html">Python for Astronomers - Advanced Plotting</a></li>
+    </ul>
+
+    <h2>Additional Resources:</h2>
+    <ul>
+        <li><a href="https://medium.com/analytics-vidhya/pythons-matplotlib-how-to-create-figures-and-plots-c9b1ccbff5f5">Medium - Python's Matplotlib: How to Create Figures and Plots</a></li>
+    </ul>
+</body>
+</html>

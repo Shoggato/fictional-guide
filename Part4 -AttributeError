@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python AttributeError and int64 Error</title>
+</head>
+<body>
+    <h1>Python AttributeError</h1>
+    <h2>Resources on AttributeError:</h2>
+    <ul>
+        <li><a href="https://www.geeksforgeeks.org/python-attributeerror/">GeeksforGeeks - Python AttributeError</a></li>
+        <li><a href="https://rollbar.com/blog/python-attributeerror/">Rollbar - Understanding Python AttributeError</a></li>
+        <li><a href="https://careerkarma.com/blog/python-attributeerror/">Career Karma - Handling AttributeError in Python</a></li>
+    </ul>
+    
+    <h1>Error related to int64</h1>
+    <p>When using int64, there is an error that reads: "IntCastingNaNError: Cannot convert non-finite values (NA or inf) to integer."</p>
+    <h2>Resources on int64 Error:</h2>
+    <ul>
+        <li><a href="https://stackoverflow.com/questions/48511484/data-type-conversion-error-valueerror-cannot-convert-non-finite-values-na-or">Stack Overflow - ValueError: Cannot convert non-finite values (NA or inf)</a></li>
+        <li><a href="https://github.com/dask/dask/issues/8386">GitHub - Issue related to int64 error</a></li>
+        <li><a href="https://www.kaggle.com/discussions/general/102285">Kaggle - Discussion on the int64 error</a></li>
+    </ul>
+</body>
+</html>

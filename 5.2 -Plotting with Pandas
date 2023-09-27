@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5.2 -Plotting with Pandas</title>
+</head>
+<body>
+    <h1>Plotting with Pandas</h1>
+    <p><strong>Overview</strong></p><br>
+    <p>Today, you will be introduced to Pandas plotting, a quick and effective way to create charts from DataFrames. 
+        The class will begin with an activity where you will identify and create the most effective visualizations for a variety of datasets. 
+        Then, after a brief warm-up, you will learn how Pandas can be used to create intricate plots and data visualizations by using the values stored in DataFrames. 
+        Finally, the class will conclude with a group mini-project. 
+        With your group, you will use Pandas and Matplotlib to create a plot that visualizes a comparison of travelers to Malaysia from different countries of origin.</p><br>
+    <p><strong>What You'll Learn</strong></p><br>
+    <p>By the end of this lesson, you will be able to:</p><br>
+    <ul>
+        <li>Create plots by using the DataFrame.plot() method.</li>
+        <li>Summarize the advantages and disadvantages of creating charts by using the DataFrame.plot() method.</li>
+        <li>Use Pandas to analyze a complex dataset and chart the corresponding visualizations.</li>
+    </ul>
+    <p>Table of Contents:</p>
+    <a href="Part1 -GroupBy Chart">Go to Part1</a><br>
+    <a href="Part2 -Graphing Functions">Go to Part2</a><br>
+    <a href="Part3 -Multiple Graphs, using Handles">Go to Part3</a><br>
+    <a href="Part4 -Additional Functions for Matplotlib">Go to Part4</a><br>
+    <a href="Part5 -Different Chart Types for Matplotlib">Go to Part5</a><br>
+</body>
+</html>

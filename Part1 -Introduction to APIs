@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Introduction Resources</title>
+</head>
+<body>
+    <h1>Introduction to APIs</h1>
+    <ul>
+        <li><a href="https://www.learnhowtoprogram.com/intermediate-javascript/asynchrony-and-apis/introduction-to-apis">Learn How to Program</a></li>
+        <li><a href="https://www.digitalfluency.guide/apis/introduction-to-apis">Digital Fluency Guide</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction">Mozilla Developer Network</a></li>
+        <li><a href="https://www.geeksforgeeks.org/what-is-an-api/">GeeksforGeeks</a></li>
+        <li><a href="https://zapier.com/resources/guides/apis/introduction">Zapier</a></li>
+        <li><a href="https://www.postman.com/what-is-an-api/">Postman</a></li>
+        <li><a href="https://ubc-library-rc.github.io/intro-api/content/01_what-is-an-api.html">UBC Library</a></li>
+        <li><a href="https://aws.amazon.com/what-is/api/">Amazon Web Services</a></li>
+    </ul>
+
+    <h2>Video Resources</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=iFMLyMgCUTs">8-Minute Video</a></li>
+        <li><a href="https://www.youtube.com/watch?v=GZvSYJDk-us">2-Hour Video</a></li>
+    </ul>
+</body>
+</html>

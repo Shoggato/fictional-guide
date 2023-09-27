@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenWeatherMap API Resources</title>
+</head>
+<body>
+    <h1>OpenWeatherMap API Resources</h1>
+    <ul>
+        <li><a href="https://openweathermap.org/api">OpenWeatherMap API Documentation</a></li>
+        <li><a href="https://openweathermap.org/guide">OpenWeatherMap API Guide</a></li>
+        <li><a href="https://openweathermap.org/api/one-call-api">OpenWeatherMap One Call API Documentation</a></li>
+        <li><a href="https://openweathermap.org/current">OpenWeatherMap Current Weather API Documentation</a></li>
+        <li><a href="https://stackoverflow.com/questions/61076200/load-json-to-pandas-dataframe-with-openweather-api">Stack Overflow: Load JSON to Pandas DataFrame with OpenWeather API</a></li>
+        <li><a href="https://stackoverflow.com/questions/71892382/extracting-data-from-openweather-api">Stack Overflow: Extracting Data from OpenWeather API</a></li>
+        <li><a href="https://stackoverflow.com/questions/71094439/how-do-i-convert-open-weather-map-json-format-to-pandas-dataframe">Stack Overflow: Convert Open Weather Map JSON Format to Pandas DataFrame</a></li>
+        <li><a href="https://stackoverflow.com/questions/72252973/turning-a-multi-dictionary-json-into-a-pandas-dataframe">Stack Overflow: Turning a Multi-Dictionary JSON into a Pandas DataFrame</a></li>
+        <li><a href="https://stackoverflow.com/questions/66101614/how-to-make-json-normalize-build-a-dataframe-from-openweather-respons">Stack Overflow: Make JSON Normalize Build a DataFrame from OpenWeather Response</a></li>
+        <li><a href="https://openweathermapy.readthedocs.io/en/latest/">OpenWeatherMapy Documentation</a></li>
+        <li><a href="https://max-coding.medium.com/create-a-weather-map-using-openweather-api-in-python-f048473ca6ae">Medium: Create a Weather Map Using OpenWeather API in Python</a></li>
+        <li><a href="https://thenewstack.io/obtaining-and-storing-time-series-data-with-python/">The New Stack: Obtaining and Storing Time-Series Data with Python</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-find-current-weather-of-any-city-using-openweathermap-api/">GeeksforGeeks: Find Current Weather of Any City Using OpenWeatherMap API</a></li>
+        <li><a href="https://pypi.org/project/openweathermap_requests/">PyPI: openweathermap_requests</a></li>
+        <li><a href="https://knasmueller.net/using-the-open-weather-map-api-with-python">Using the Open Weather Map API with Python</a></li>
+        <li><a href="https://codereview.stackexchange.com/questions/204524/getting-current-weather-data-using-openweathermap-api">Code Review: Getting Current Weather Data Using OpenWeatherMap API</a></li>
+    </ul>
+</body>
+</html>

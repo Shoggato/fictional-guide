@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample vs. Population, Standard Error, and Error Bars Resources</title>
+</head>
+<body>
+    <h1>Sample vs. Population, Standard Error, and Error Bars Resources</h1>
+    
+    <h2>Sample vs. Population:</h2>
+    <ul>
+        <li><a href="https://www.freecodecamp.org/news/population-vs-sample-statistics-example/">freeCodeCamp - Population vs. Sample Statistics Example</a></li>
+        <li><a href="https://www.simplilearn.com/tutorials/machine-learning-tutorial/population-vs-sample">Simplilearn - Population vs. Sample</a></li>
+        <li><a href="https://www.scribbr.com/methodology/population-vs-sample/">Scribbr - Population vs. Sample</a></li>
+        <li><a href="https://online.stat.psu.edu/stat200/lesson/1/1.2">Penn State Online Statistics - Population vs. Sample</a></li>
+        <li><a href="https://statisticsbyjim.com/basics/population-vs-sample/">Statistics by Jim - Population vs. Sample</a></li>
+        <li><a href="https://vitalflux.com/population-samples-in-statistics-examples/">Vitalflux - Population vs. Samples in Statistics</a></li>
+    </ul>
+
+    <h2>Standard Error (SEM):</h2>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Standard_error">Wikipedia - Standard Error</a></li>
+        <li><a href="https://statisticsbyjim.com/hypothesis-testing/standard-error-mean/">Statistics by Jim - Standard Error of the Mean</a></li>
+        <li><a href="https://www.indeed.com/career-advice/career-development/standard-error-mean">Indeed - Standard Error of the Mean</a></li>
+        <li><a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/5-differences-between-means-type-i-an">BMJ - Differences Between Means: Type I and Standard Error</a></li>
+        <li><a href="https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/what-is-the-standard-error-of-a-sample/">StatisticsHowTo - Standard Error of a Sample</a></li>
+    </ul>
+
+    <h2>SEM Python Syntax:</h2>
+    <ul>
+        <li><a href="https://www.geeksforgeeks.org/scipy-stats-sem-function-python/">GeeksforGeeks - scipy.stats.sem() in Python</a></li>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.sem.html">scipy.stats.sem() Documentation</a></li>
+        <li><a href="https://www.statology.org/standard-error-of-mean-python/">Statology - Standard Error of the Mean in Python</a></li>
+        <li><a href="https://www.w3schools.com/python/pandas/ref_df_sem.asp">W3Schools - Pandas DataFrame.sem()</a></li>
+        <li><a href="https://www.codingem.com/python-standard-error-of-the-mean/">Codingem - Python Standard Error of the Mean</a></li>
+    </ul>
+
+    <h2>Error Bars:</h2>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Error_bar">Wikipedia - Error Bar</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.errorbar.html">Matplotlib Documentation - plt.errorbar()</a></li>
+        <li><a href="https://www.geeksforgeeks.org/errorbar-graph-in-python-using-matplotlib/">GeeksforGeeks - Errorbar Graph in Python using Matplotlib</a></li>
+        <li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.03-errorbars.html">Python Data Science Handbook - Error Bars</a></li>
+        <li><a href="https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.07-Error-Bars/">Problem Solving with Python - Error Bars</a></li>
+        <li><a href="https://www.scaler.com/topics/matplotlib/matplotlib-errorbar/">Scaler - Matplotlib Errorbar</a></li>
+        <li><a href="https://pythonguides.com/matplotlib-plot-error-bars/">Python Guides - Matplotlib Plot Error Bars</a></li>
+        <li><a href="https://www.geeksforgeeks.org/matplotlib-pyplot-errorbar-in-python/">GeeksforGeeks - Matplotlib plt.errorbar() in Python</a></li>
+        <li><a href="https://pythontic.com/visualization/charts/errorbar">PythonTic - Error Bar in Matplotlib</a></li>
+    </ul>
+</body>
+</html>

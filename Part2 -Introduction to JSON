@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON and API Resources</title>
+</head>
+<body>
+    <h1>JSON and API Resources</h1>
+    <ul>
+        <li><a href="https://javaee.github.io/tutorial/jsonp001.html">Java EE JSON Tutorial</a></li>
+        <li><a href="https://www.freecodecamp.org/news/what-is-json-a-json-file-example/">FreeCodeCamp JSON Introduction</a></li>
+        <li><a href="https://www.w3schools.com/js/js_json_intro.asp">W3Schools JSON Introduction</a></li>
+        <li><a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-json">DigitalOcean JSON Introduction</a></li>
+        <li><a href="https://towardsdatascience.com/an-introduction-to-json-c9acb464f43e">Towards Data Science JSON Introduction</a></li>
+        <li><a href="https://docs.oracle.com/javaee/7/tutorial/jsonp001.htm">Oracle JSONP Tutorial</a></li>
+        <li><a href="https://www.geeksforgeeks.org/json-introduction/">GeeksforGeeks JSON Introduction</a></li>
+        <li><a href="https://www.tutorialspoint.com/json/index.htm">TutorialsPoint JSON Tutorial</a></li>
+        <li><a href="https://www.softwaretestinghelp.com/json-tutorial/">Software Testing Help JSON Tutorial</a></li>
+        <li><a href="https://www.json.org/json-en.html">JSON.org</a></li>
+        <li><a href="https://thenewstack.io/an-introduction-to-json/">The New Stack JSON Introduction</a></li>
+        <li><a href="https://www.javatpoint.com/json-tutorial">JavaTpoint JSON Tutorial</a></li>
+    </ul>
+
+    <h2>API Resources</h2>
+    <ul>
+        <li><a href="https://jsonplaceholder.typicode.com/posts/">JSONPlaceholder API</a></li>
+    </ul>
+
+    <h2>PowerPoint Presentation</h2>
+    <ul>
+        <li><a href="https://www.mqtechconference.com/sessions_v2017/MQTC_2017_Introduction_to_JSON.pdf">Introduction to JSON PowerPoint</a></li>
+    </ul>
+
+    <h2>JSON Tools</h2>
+    <ul>
+        <li><a href="https://chrome.google.com/webstore/search/json%20formatter">Chrome JSON Formatter Extension</a></li>
+    </ul>
+
+    <h2>Video Resources</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=iiADhChRriM">12-Minute Video</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matplotlib Documentation and Examples</title>
+</head>
+<body>
+    <h1>Matplotlib Documentation and Examples</h1>
+    
+    <h2>Matplotlib Plotting Functions:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html">plt.plot()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.show.html">plt.show()</a></li>
+        <li><a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xlabel.html">plt.xlabel()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ylabel.html">plt.ylabel()</a></li>
+        <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hlines.html">plt.hlines()</a></li>
+    </ul>
+
+    <h2>Additional Resources:</h2>
+    <ul>
+        <li><a href="https://www.geeksforgeeks.org/matplotlib-pyplot-hlines-in-python/">GeeksforGeeks - plt.hlines() Example</a></li>
+        <li><a href="https://www.tutorialspoint.com/how-to-set-labels-in-matplotlib-hlines">TutorialsPoint - Setting Labels for plt.hlines()</a></li>
+    </ul>
+
+    <h2>Examples:</h2>
+    <ul>
+        <li><a href="https://matplotlib.org/stable/gallery/lines_bars_and_markers/simple_plot.html">Matplotlib Simple Plot Example</a></li>
+        <li><a href="https://www.geeksforgeeks.org/simple-plot-in-python-using-matplotlib/">GeeksforGeeks - Simple Plot</a></li>
+        <li><a href="https://www.tutorialspoint.com/matplotlib/matplotlib_simple_plot.htm">TutorialsPoint - Matplotlib Simple Plot</a></li>
+        <li><a href="https://www.w3schools.com/python/matplotlib_plotting.asp">W3Schools - Matplotlib Plotting</a></li>
+    </ul>
+
+    <h2>Additional Reference:</h2>
+    <ul>
+        <li><a href="https://www.activestate.com/resources/quick-reads/how-to-display-a-plot-in-python/">How to Display a Plot in Python</a></li>
+        <li><a href="https://courses.csail.mit.edu/6.867/wiki/images/3/3f/Plot-python.pdf">MIT Course PDF - Plotting in Python</a></li>
+    </ul>
+</body>
+</html>

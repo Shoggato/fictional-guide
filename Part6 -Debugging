@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debugging and Error Handling in Python</title>
+</head>
+<body>
+    <h1>Debugging and Error Handling in Python</h1>
+    <ul>
+        <li><a href="https://cs.stanford.edu/people/nick/py/python-debugging.html">Stanford University - Debugging in Python</a></li>
+        <li><a href="https://note.nkmk.me/en/error-handling/">nkmk.me - Python Error Handling</a></li>
+        <li><a href="https://stackoverflow.com/questions/4929251/how-to-step-through-python-code-to-help-debug-issues">Stack Overflow - How to Step Through Python Code for Debugging</a></li>
+        <li><a href="https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html">PyCharm - Debugging Python Code</a></li>
+        <li><a href="https://docs.python.org/3/library/pdb.html">Python Documentation - pdb: The Python Debugger</a></li>
+        <li><a href="https://www.geeksforgeeks.org/python-debugger-python-pdb/">GeeksforGeeks - Python Debugger (pdb)</a></li>
+        <li><a href="https://code.visualstudio.com/docs/python/debugging">Visual Studio Code - Debugging Python Code</a></li>
+    </ul>
+</body>
+</html>

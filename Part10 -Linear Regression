@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introductory Links on Linear Regression</title>
+</head>
+<body>
+    <h1>Introductory Links on Linear Regression</h1>
+    
+    <h2>Linear Regression Basics:</h2>
+    <ul>
+        <li><a href="https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/#:~:text=A%20Linear%20Regression%20model's%20main,is%20to%20reduce%20this%20difference.">Analytics Vidhya - All You Need to Know About Linear Regression</a></li>
+        <li><a href="https://www.scribbr.com/statistics/simple-linear-regression/">Scribbr - Simple Linear Regression</a></li>
+        <li><a href="https://towardsdatascience.com/the-basics-linear-regression-2fc9f5124687">Towards Data Science - The Basics of Linear Regression</a></li>
+        <li><a href="https://onlinestatbook.com/2/regression/intro.html">Online Stat Book - Introduction to Regression</a></li>
+        <li><a href="https://www.investopedia.com/articles/financial-theory/09/regression-analysis-basics-business.asp">Investopedia - Regression Analysis Basics</a></li>
+        <li><a href="https://opentextbc.ca/introductorybusinessstatistics/chapter/regression-basics-2/">Open Text BC - Regression Basics</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Wo9Vt7Sc_E0">YouTube - Linear Regression Basics (Video)</a></li>
+        <li><a href="https://www.youtube.com/watch?v=ZkjP5RJLQF4">YouTube - Linear Regression in Python (Video)</a></li>
+    </ul>
+
+    <h2>Python Functions:</h2>
+    <ul>
+        <li><a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html">scipy.stats.linregress() Documentation</a></li>
+        <li><a href="https://www.geeksforgeeks.org/scipy-stats-linregress-python/">GeeksforGeeks - scipy.stats.linregress() in Python</a></li>
+        <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iterrows.html">Pandas DataFrame.iterrows() Documentation</a></li>
+        <li><a href="https://www.geeksforgeeks.org/different-ways-to-iterate-over-rows-in-pandas-dataframe/">GeeksforGeeks - Iterating Over Rows in Pandas DataFrame</a></li>
+    </ul>
+</body>
+</html>

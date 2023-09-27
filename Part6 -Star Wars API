@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Resources</title>
+</head>
+<body>
+    <h1>API Resources</h1>
+    <ul>
+        <li><a href="https://lookerstudio.google.com/reporting/1QXy-dp4EHsVDljoAeb7BE3PxW9MOPSLw">Looker Studio Google Report</a></li>
+        <li><a href="https://medium.com/@rhoprhh/nested-hashes-and-api-data-343ffd552edd">Medium Article: Nested Hashes and API Data</a></li>
+        <li><a href="https://blog.treblle.com/what-star-wars-can-teach-us-about-apis-part-1/">Blog: What Star Wars Can Teach Us About APIs - Part 1</a></li>
+    </ul>
+    <h2>Recap</h2>
+    <ul>
+        <li><a href="https://blog.treblle.com/what-star-wars-can-teach-us-about-apis-part-1/">Blog: What Star Wars Can Teach Us About APIs - Part 1</a></li>
+    </ul>
+</body>
+</html>

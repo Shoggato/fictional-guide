@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD Operations Resources</title>
+</head>
+<body>
+    <h1>CRUD (Create, Read, Update, Delete) Operations Resources</h1>
+    
+    <h2>General CRUD Operations</h2>
+    <ul>
+        <li><a href="https://study.com/academy/lesson/crud-create-read-update-delete-in-computer-programming.html">CRUD in Computer Programming (Study.com)</a></li>
+        <li><a href="https://www.sqlshack.com/crud-operations-in-sql-server/">CRUD Operations in SQL Server (SQLShack)</a></li>
+        <li><a href="https://www.crowdstrike.com/cybersecurity-101/observability/crud/">Observability and CRUD (CrowdStrike)</a></li>
+        <li><a href="https://www.educative.io/blog/crud-operations">CRUD Operations (Educative.io)</a></li>
+        <li><a href="https://www.geeksforgeeks.org/sql-server-crud-operations/">SQL Server CRUD Operations (GeeksforGeeks)</a></li>
+        <li><a href="https://www.mssqltips.com/sqlservertip/7369/sql-server-crud-operation-examples/">SQL Server CRUD Operation Examples (MSSQLTips)</a></li>
+        <li><a href="https://www.javatpoint.com/crud-operations-in-sql">CRUD Operations in SQL (JavaTpoint)</a></li>
+        <li><a href="https://mazer.dev/en/blog/posts/crud/">CRUD Operations (Mazer.dev)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete">Create, Read, Update, and Delete (Wikipedia)</a></li>
+        <li><a href="https://www.devart.com/dbforge/sql/sqlcomplete/crud-operations-in-sql.html">CRUD Operations in SQL (Devart)</a></li>
+    </ul>
+
+    <h2>PostgreSQL CRUD Operations</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=wdYgpGxDn9E">Video: PostgreSQL CRUD Operations</a></li>
+        <li><a href="https://www.youtube.com/watch?v=GiT0Dm8l_Ts">Video: PostgreSQL CRUD Operations (2nd Video)</a></li>
+        <li><a href="https://blog.knoldus.com/lets-have-a-look-at-the-postgresql-crud-operation/">PostgreSQL CRUD Operation (Knoldus Blog)</a></li>
+        <li><a href="https://www.commandprompt.com/education/how-to-create-a-table-in-postgresql-perform-crud-operations/">CRUD Operations in PostgreSQL (CommandPrompt)</a></li>
+        <li><a href="https://www.datacamp.com/tutorial/beginners-introduction-postgresql">Beginner's Introduction to PostgreSQL (DataCamp)</a></li>
+        <li><a href="https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/">CRUD REST API with Node.js, Express, and PostgreSQL (LogRocket Blog)</a></li>
+    </ul>
+
+    <h2>With Python</h2>
+    <ul>
+        <li><a href="https://www.geeksforgeeks.org/perform-postgresql-crud-operations-from-python/">Perform PostgreSQL CRUD Operations from Python (GeeksforGeeks)</a></li>
+    </ul>
+</body>
+</html>

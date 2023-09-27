@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Bank API Resources</title>
+</head>
+<body>
+    <h1>World Bank API Resources</h1>
+    <ul>
+        <li><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation">World Bank: About the Indicators API Documentation</a></li>
+        <li><a href="https://documents.worldbank.org/en/publication/documents-reports/api">World Bank: API Documents and Reports</a></li>
+        <li><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structures">World Bank: API Basic Call Structures</a></li>
+        <li><a href="https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information">World Bank: Developer Information</a></li>
+        <li><a href="https://data.worldbank.org/products/third-party-apps">World Bank: Third-Party Apps</a></li>
+        <li><a href="https://data.worldbank.org/static/pages/en/about/get-started.html">World Bank: Get Started with Data</a></li>
+        <li><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/889386-developer-information-overview">World Bank: Developer Information Overview</a></li>
+        <li><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/898599-indicator-api-queries">World Bank: Indicator API Queries</a></li>
+        <li><a href="https://api.worldbank.org/v2/country">World Bank: Country Data API</a></li>
+        <li><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/1886686-advanced-data-api-queries">World Bank: Advanced Data API Queries</a></li>
+    </ul>
+</body>
+</html>
